@@ -1,0 +1,1251 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+<file original="apostrophe" source-language="en_US" datatype="plaintext">
+<body>
+<trans-unit id="1">
+<source>Click edit to add text.</source>
+<target>Для добавления текста используйте редактирование</target>
+</trans-unit>
+<trans-unit id="2">
+<source>Choose images</source>
+<target>Выбрать картинки</target>
+</trans-unit>
+<trans-unit id="3">
+<source>Create a Slideshow</source>
+<target>Создать слайд-шоу</target>
+</trans-unit>
+<trans-unit id="4">
+<source>Photo Credit: %credit%</source>
+<target>Автор фото: %credit%</target>
+</trans-unit>
+<trans-unit id="5">
+<source>Previous</source>
+<target>Назад</target>
+</trans-unit>
+<trans-unit id="6">
+<source>Next</source>
+<target>Вперед</target>
+</trans-unit>
+<trans-unit id="7">
+<source>Click For Next Image</source>
+<target>Кликните для следующей картинки</target>
+</trans-unit>
+<trans-unit id="8">
+<source>Choose image</source>
+<target>Выберите картинку</target>
+</trans-unit>
+<trans-unit id="9">
+<source>Select an Image</source>
+<target>Выберите картинку из списка</target>
+</trans-unit>
+<trans-unit id="10">
+<source>Select to Add</source>
+<target>Выберите из списка для добавления</target>
+</trans-unit>
+<trans-unit id="11">
+<source>Clear Search</source>
+<target>Очистить поиск</target>
+</trans-unit>
+<trans-unit id="12">
+<source>Click to Search</source>
+<target>Кликните для поиска</target>
+</trans-unit>
+<trans-unit id="13">
+<source>Search</source>
+<target>Поиск</target>
+</trans-unit>
+<trans-unit id="14">
+<source>Submit</source>
+<target>Подтвердить</target>
+</trans-unit>
+<trans-unit id="15">
+<source>Media Types</source>
+<target>Типы медиа-файлов</target>
+</trans-unit>
+<trans-unit id="16">
+<source>Categories</source>
+<target>Категории</target>
+</trans-unit>
+<trans-unit id="20">
+<source>Selected Tag</source>
+<target>Выбранный тег</target>
+</trans-unit>
+<trans-unit id="21">
+<source>Popular Tags</source>
+<target>Популярные теги</target>
+</trans-unit>
+<trans-unit id="22">
+<source>All Tags</source>
+<target>Все теги</target>
+</trans-unit>
+<trans-unit id="23">
+<source>add</source>
+<target>добавить</target>
+</trans-unit>
+<trans-unit id="24">
+<source>Cancel</source>
+<target>Отмена</target>
+</trans-unit>
+<trans-unit id="25">
+<source>New Category</source>
+<target>Новая категория</target>
+</trans-unit>
+<trans-unit id="26">
+<source>Remove</source>
+<target>Удалить</target>
+</trans-unit>
+<trans-unit id="27">
+<source>, </source>
+<target>,</target>
+</trans-unit>
+<trans-unit id="28">
+<source>&lt;span&gt;Original Dimensions:&lt;/span&gt; %width%x%height%</source>
+<target>&lt;span&gt;Оригинальные размеры:&lt;/span&gt; %width%x%height%</target>
+</trans-unit>
+<trans-unit id="29">
+<source>&lt;span&gt;Uploaded:&lt;/span&gt; %date%</source>
+<target>&lt;span&gt;Элемент загружен:&lt;/span&gt; %date%</target>
+</trans-unit>
+<trans-unit id="30">
+<source>&lt;span&gt;Credit:&lt;/span&gt; %credit%</source>
+<target>&lt;span&gt;Автор:&lt;/span&gt; %credit%</target>
+</trans-unit>
+<trans-unit id="31">
+<source>&lt;span&gt;Categories:&lt;/span&gt; %categories%</source>
+<target>&lt;span&gt;Категории:&lt;/span&gt; %categories%</target>
+</trans-unit>
+<trans-unit id="32">
+<source>&lt;span&gt;Tags:&lt;/span&gt; %tags%</source>
+<target>&lt;span&gt;Теги:&lt;/span&gt; %tags%</target>
+</trans-unit>
+<trans-unit id="33">
+<source>&lt;span&gt;URL:&lt;/span&gt; %urlfield%</source>
+<target>&lt;span&gt;URL:&lt;/span&gt; %urlfield%</target>
+</trans-unit>
+<trans-unit id="34">
+<source>Go</source>
+<target>Выполнить</target>
+</trans-unit>
+<trans-unit id="35">
+<source>No matching videos were found. Try being less specific.</source>
+<target>По вашему запросу видеофайлы не найдены. Пожалуйста, попробуйте упростить условия поиска.</target>
+</trans-unit>
+<trans-unit id="36">
+<source>Select%buttonspan%</source>
+<target>Выбрать%buttonspan%</target>
+</trans-unit>
+<trans-unit id="37">
+<source>Editing Video: %title%</source>
+<target>Редактирование видеоматериала: %title%</target>
+</trans-unit>
+<trans-unit id="38">
+<source>Add Video</source>
+<target>Добавить видео</target>
+</trans-unit>
+<trans-unit id="39">
+<source>That is not a valid YouTube video URL.</source>
+<target>Данная ссылка на видео Youtube некорректна.</target>
+</trans-unit>
+<trans-unit id="40">
+<source>Tags should be separated by commas. Example: student life, chemistry, laboratory</source>
+<target>Теги должны быть разделены запятыми. Пример: студенчество, химия, лабораторные работы.</target>
+</trans-unit>
+<trans-unit id="41">
+<source>Save</source>
+<target>Сохранить</target>
+</trans-unit>
+<trans-unit id="42">
+<source>Delete</source>
+<target>Удалить</target>
+</trans-unit>
+<trans-unit id="43">
+<source>Are you sure you want to delete this item?</source>
+<target>Вы действительно хотите удалить данный элемент?</target>
+</trans-unit>
+<trans-unit id="44">
+<source>Search YouTube</source>
+<target>Найти на YouTube</target>
+</trans-unit>
+<trans-unit id="45">
+<source>Add by YouTube URL</source>
+<target>Добавить как ссылку на YouTube</target>
+</trans-unit>
+<trans-unit id="46">
+<source>Add by Embed Code</source>
+<target>Добавить как встроенный код</target>
+</trans-unit>
+<trans-unit id="47">
+<source>Add by URL</source>
+<target>Добавить как ссылку</target>
+</trans-unit>
+<trans-unit id="48">
+<source>Example: http://www.youtube.com/watch?v=EwTZ2xpQwpA</source>
+<target>Пример: http://www.youtube.com/watch?v=EwTZ2xpQwpA</target>
+</trans-unit>
+<trans-unit id="49">
+<source>Example: %embed%</source>
+<target>Пример: %embed%</target>
+</trans-unit>
+<trans-unit id="50">
+<source>Editing PDF: %title%</source>
+<target>Редактирование PDF: %title%</target>
+</trans-unit>
+<trans-unit id="51">
+<source>Add PDF</source>
+<target>Добавить PDF</target>
+</trans-unit>
+<trans-unit id="52">
+<source>That is not a valid PDF.</source>
+<target>Формат файла не является PDF</target>
+</trans-unit>
+<trans-unit id="53">
+<source>remove this item</source>
+<target>удалить элемент из списка</target>
+</trans-unit>
+<trans-unit id="54">
+<source>Drag &amp;amp; Drop to Order</source>
+<target>Drag &amp;amp; Drop для сортировки</target>
+</trans-unit>
+<trans-unit id="55">
+<source>cancel</source>
+<target>отмена</target>
+</trans-unit>
+<trans-unit id="56">
+<source>Add Images</source>
+<target>Добавить картинки</target>
+</trans-unit>
+<trans-unit id="57">
+<source>Media Library</source>
+<target>Библиотека медиа-файлов</target>
+</trans-unit>
+<trans-unit id="58">
+<source>Original Dimensions:</source>
+<target>Оригинальные размеры:</target>
+</trans-unit>
+<trans-unit id="59">
+<source>%width%x%height%</source>
+<target>%width%x%height%</target>
+</trans-unit>
+<trans-unit id="60">
+<source>Uploaded:</source>
+<target>Загружено:</target>
+</trans-unit>
+<trans-unit id="61">
+<source>Credit:</source>
+<target>Автор:</target>
+</trans-unit>
+<trans-unit id="62">
+<source>Categories:</source>
+<target>Категории:</target>
+</trans-unit>
+<trans-unit id="63">
+<source>Tags:</source>
+<target>Теги:</target>
+</trans-unit>
+<trans-unit id="64">
+<source>Download Original%buttonspan%</source>
+<target>Скачать Original%buttonspan%</target>
+</trans-unit>
+<trans-unit id="65">
+<source>Select one or more %typeplural% by clicking on them below. Drag and drop %typeplural%  to reorder them within the list of selected items. Remove %typeplural% by clicking on the trashcan.</source>
+<target>Для выбора одного или нескольких элементов  используйте клик. Для изменения последовательности элементов используйте перетаскивание. Для удаления нажимайте на иконку корзины.</target>
+</trans-unit>
+<trans-unit id="66">
+<source>Only appropriately sized %typeplural% are shown.</source>
+<target>Показаны %typeplural%только подходящего размера.</target>
+</trans-unit>
+<trans-unit id="67">
+<source>When you're done, click &quot;Save.&quot;</source>
+<target>По завершении нажмите &quot;Сохранить&quot;</target>
+</trans-unit>
+<trans-unit id="68">
+<source>Upload Images</source>
+<target>Загрузить картинки</target>
+</trans-unit>
+<trans-unit id="69">
+<source>Add Another Photo</source>
+<target>Добавить еще картинки</target>
+</trans-unit>
+<trans-unit id="70">
+<source>You are editing: %title%</source>
+<target>Вы редактируете: %title%</target>
+</trans-unit>
+<trans-unit id="72">
+<source>Hidden Photos can be used in photo slots, but are not displayed in the Media section.</source>
+<target>Скрытые картинки могут быть использованы в фото-слотах, но не будут выводится в списке медиафайлов</target>
+</trans-unit>
+<trans-unit id="73">
+<source>Use the browsing and searching features to locate the %type% you want, then click on that %type% to select it.</source>
+<target>Используйте навигацию и поиск для нахождения нужного типа %type%, затем для выбора кликните на %type%.</target>
+</trans-unit>
+<trans-unit id="74">
+<source>Edit</source>
+<target>Редактировать</target>
+</trans-unit>
+<trans-unit id="75">
+<source>Download Original</source>
+<target>Скачать оригинал</target>
+</trans-unit>
+<trans-unit id="76">
+<source>Annotate Images</source>
+<target>Добавить аннотации к картинкам</target>
+</trans-unit>
+<trans-unit id="77">
+<source>Save Images</source>
+<target>Сохранить картинки</target>
+</trans-unit>
+<trans-unit id="78">
+<source>A %w%x%h% aspect ratio</source>
+<target>%w%x%h% соотношение геометрических размеров</target>
+</trans-unit>
+<trans-unit id="79">
+<source>A minimum width of %mw% pixels</source>
+<target>Минимальная ширина %mw% пикселей</target>
+</trans-unit>
+<trans-unit id="80">
+<source>A minimum height of %mh% pixels</source>
+<target>Минимальная высота %mh% пикселей</target>
+</trans-unit>
+<trans-unit id="81">
+<source>A width of exactly %w% pixels</source>
+<target>Точная ширина %w% пикселей</target>
+</trans-unit>
+<trans-unit id="82">
+<source>A height of exactly %h% pixels</source>
+<target>Точная высота %h% пикселей</target>
+</trans-unit>
+<trans-unit id="83">
+<source>items</source>
+<target>элементы</target>
+</trans-unit>
+<trans-unit id="84">
+<source>Displaying only %t% with:</source>
+<target>Отображается только %t% с:</target>
+</trans-unit>
+<trans-unit id="85">
+<source>User Dashboard</source>
+<target>Управление пользователями</target>
+</trans-unit>
+<trans-unit id="86">
+<source>Add User</source>
+<target>Добавить пользователя</target>
+</trans-unit>
+<trans-unit id="87">
+<source>Group Dashboard</source>
+<target>Управление группами</target>
+</trans-unit>
+<trans-unit id="88">
+<source>Add Group</source>
+<target>Добавить группу</target>
+</trans-unit>
+<trans-unit id="89">
+<source>Permissions Dashboard</source>
+<target>Управление разрешениями</target>
+</trans-unit>
+<trans-unit id="90">
+<source>Add Permission</source>
+<target>Добавить разрешение</target>
+</trans-unit>
+<trans-unit id="91">
+<source>Use this slot to add raw HTML markup, such as embed codes.</source>
+<target>Используйте данный слот для добавления сырой разметки HTML, таких как встраиваемые коды.</target>
+</trans-unit>
+<trans-unit id="92">
+<source>Use this slot with caution. If bad markup causes the page to become uneditable, add ?safemode=1 to the URL and edit the slot to correct the markup.</source>
+<target>Используйте данный слот с особой осторожностью. Если неверная разметка сделает страницу не редактируемой, то добавьте в адресную строку &quot;?safemode=1&quot; и снова попробуйте отредактировать содержимое слота для исправления разметки.</target>
+</trans-unit>
+<trans-unit id="93">
+<source>Click edit to add raw HTML markup, such as embed codes.</source>
+<target>Используйте редактирование для добавления &quot;сырой&quot; разметки HTML, такой как встроенные (embed) коды. </target>
+</trans-unit>
+<trans-unit id="94">
+<source>First Page</source>
+<target>Первая страница</target>
+</trans-unit>
+<trans-unit id="95">
+<source>Previous Page</source>
+<target>Предыдущая страница</target>
+</trans-unit>
+<trans-unit id="96">
+<source>Next Page</source>
+<target>Следующая страница</target>
+</trans-unit>
+<trans-unit id="97">
+<source>Last Page</source>
+<target>Последняя страница</target>
+</trans-unit>
+<trans-unit id="98">
+<source>Choose Video</source>
+<target>Выберите видео</target>
+</trans-unit>
+<trans-unit id="99">
+<source>Select a Video</source>
+<target>Выберите видео из списка</target>
+</trans-unit>
+<trans-unit id="100">
+<source>Invalid URL. A valid example: http://www.punkave.com/</source>
+<target>Некорректная ссылка. Правильно вот так, например: http://www.punkave.com/ </target>
+</trans-unit>
+<trans-unit id="101">
+<source>URL: %r%</source>
+<target>URL: %r%</target>
+</trans-unit>
+<trans-unit id="102">
+<source>Title: %t%</source>
+<target>Название: %t%</target>
+</trans-unit>
+<trans-unit id="103">
+<source>sign in</source>
+<target>Зарегистрироваться</target>
+</trans-unit>
+<trans-unit id="104">
+<source>Options</source>
+<target>Параметры</target>
+</trans-unit>
+<trans-unit id="105">
+<source>Hide &quot;Off&quot; Pages</source>
+<target>Скрыть неактивные страницы</target>
+</trans-unit>
+<trans-unit id="106">
+<source>Show &quot;Off&quot; Pages</source>
+<target>Показать неактивные страницы</target>
+</trans-unit>
+<trans-unit id="107">
+<source>Error 404 &amp;mdash; The page you are looking for could not be found.</source>
+<target>Ошибка 404 &amp;mdash; Запрашиваемая Вами страница не найдена</target>
+</trans-unit>
+<trans-unit id="108">
+<source>Go Home.</source>
+<target>Домой.</target>
+</trans-unit>
+<trans-unit id="109">
+<source>You are browsing past revisions for this area.</source>
+<target>Вы просматриваете предыдущие версии данной области.</target>
+</trans-unit>
+<trans-unit id="110">
+<source>Choose a revision.</source>
+<target>Выбрать версию</target>
+</trans-unit>
+<trans-unit id="111">
+<source>ID</source>
+<target>ID</target>
+</trans-unit>
+<trans-unit id="112">
+<source>Date</source>
+<target>Дата</target>
+</trans-unit>
+<trans-unit id="113">
+<source>Editor</source>
+<target>Редактор</target>
+</trans-unit>
+<trans-unit id="114">
+<source>Preview</source>
+<target>Предпросмотр</target>
+</trans-unit>
+<trans-unit id="115">
+<source>View More Revisions</source>
+<target>Посмотреть еще версии</target>
+</trans-unit>
+<trans-unit id="116">
+<source>You are previewing another version of this material. This will not become the current version unless you click &quot;Save As Current Revision.&quot; If you change your mind, click &quot;Cancel.&quot;</source>
+<target>Вы просматриваете другую версию этого материала. Чтобы эта версия стала текущей Нажмите &quot;Сохранить как текущую версию&quot;. А если вы передумали нажмите &quot;Отмена&quot;.</target>
+</trans-unit>
+<trans-unit id="117">
+<source>Double-click to edit.</source>
+<target>Кликните дважды для редактирования</target>
+</trans-unit>
+<trans-unit id="118">
+<source>User Preferences for %name%</source>
+<target>Пользовательские предпочтения для %name%</target>
+</trans-unit>
+<trans-unit id="119">
+<source>Save Changes</source>
+<target>Сохранить изменения</target>
+</trans-unit>
+<trans-unit id="120">
+<source>History</source>
+<target>История</target>
+</trans-unit>
+<trans-unit id="121">
+<source>Save as Current Revision</source>
+<target>Сохранить как текущую версию</target>
+</trans-unit>
+<trans-unit id="122">
+<source>Add Slot</source>
+<target>Добавить слот</target>
+</trans-unit>
+<trans-unit id="123">
+<source>Move</source>
+<target>Переместить</target>
+</trans-unit>
+<trans-unit id="124">
+<source>Move Up</source>
+<target>Переместить вверх</target>
+</trans-unit>
+<trans-unit id="125">
+<source>Move Down</source>
+<target>Переместить вниз</target>
+</trans-unit>
+<trans-unit id="126">
+<source>Delete Slot</source>
+<target>Удалить слот</target>
+</trans-unit>
+<trans-unit id="127">
+<source>Are you sure you want to delete this slot?</source>
+<target>Вы действительно хотите удалить этот слот?</target>
+</trans-unit>
+<trans-unit id="128">
+<source>Click here to continue.</source>
+<target>Кликните здесь для продолжения.</target>
+</trans-unit>
+<trans-unit id="129">
+<source>Apostrophe Now</source>
+<target>Apostrophe Now</target>
+</trans-unit>
+<trans-unit id="130">
+<source>Drag and drop pages to reorganize the site.</source>
+<target>Для изменения структуры страниц сайта используйте перетаскивание.</target>
+</trans-unit>
+<trans-unit id="131">
+<source>edit</source>
+<target>редактировать</target>
+</trans-unit>
+<trans-unit id="132">
+<source>Rename</source>
+<target>Переименовать</target>
+</trans-unit>
+<trans-unit id="133">
+<source>Page Settings</source>
+<target>Настройки страницы</target>
+</trans-unit>
+<trans-unit id="134">
+<source>Page Slug</source>
+<target>Альяс страницы</target>
+</trans-unit>
+<trans-unit id="135">
+<source>Page Status</source>
+<target>Статус страницы</target>
+</trans-unit>
+<trans-unit id="136">
+<source>Cascade status changes to children</source>
+<target>Каскадное изменение статуса публикации дочерних элементов</target>
+</trans-unit>
+<trans-unit id="137">
+<source>Page Privacy</source>
+<target>Приватность страницы</target>
+</trans-unit>
+<trans-unit id="138">
+<source>Cascade privacy changes to children</source>
+<target>Каскадное изменение приватности дочерних элеменов</target>
+</trans-unit>
+<trans-unit id="139">
+<source>Page Permissions</source>
+<target>Разрешения доступа страницы</target>
+</trans-unit>
+<trans-unit id="140">
+<source>Page Template</source>
+<target>Шаблон страницы</target>
+</trans-unit>
+<trans-unit id="141">
+<source>Page Engine</source>
+<target>Движок страницы</target>
+</trans-unit>
+<trans-unit id="142">
+<source>This page has children that will also be deleted. </source>
+<target>Данная страница имеет дочерние страницы, которые также будут удалены.</target>
+</trans-unit>
+<trans-unit id="143">
+<source>Delete This Page</source>
+<target>Удалить эту страницу</target>
+</trans-unit>
+<trans-unit id="144">
+<source>Are you sure? This operation can not be undone. Consider unpublishing the page instead.</source>
+<target>Вы уверены? Данную операцию не получиться отменить. Лучше не удалять страницу, а снять флаг публикации страницы.</target>
+</trans-unit>
+<trans-unit id="145">
+<source>Add Page</source>
+<target>Добавить страницу</target>
+</trans-unit>
+<trans-unit id="146">
+<source>Page Title</source>
+<target>Название страницы</target>
+</trans-unit>
+<trans-unit id="147">
+<source>Local</source>
+<target>Локальный</target>
+</trans-unit>
+<trans-unit id="148">
+<source>Inherited</source>
+<target>Унаследованный</target>
+</trans-unit>
+<trans-unit id="149">
+<source>Admin</source>
+<target>Админ</target>
+</trans-unit>
+<trans-unit id="150">
+<source>You are using IE6! That is just awful! Apostrophe does not support editing using Internet Explorer 6. Why don't you try upgrading? &lt;a href=&quot;http://www.getfirefox.com&quot;&gt;Firefox&lt;/a&gt; &lt;a href=&quot;http://www.google.com/chrome&quot;&gt;Chrome&lt;/a&gt; 	&lt;a href=&quot;http://www.apple.com/safari/download/&quot;&gt;Safari&lt;/a&gt; &lt;a href=&quot;http://www.microsoft.com/windows/internet-explorer/worldwide-sites.aspx&quot;&gt;IE8&lt;/a&gt;&lt;/h2&gt;&lt;/div&gt;</source>
+<target>Вы используете браузер IE6! И это ужасно, так как Apostrophe не поддерживает редактирование с использованием Internet Explorer 6. Попробуйте обновить свой браузер &lt;a href=&quot;http://www.getfirefox.com&quot;&gt;Firefox&lt;/a&gt; &lt;a href=&quot;http://www.google.com/chrome&quot;&gt;Chrome&lt;/a&gt; &lt;a href=&quot;http://www.apple.com/safari/download/&quot;&gt;Safari&lt;/a&gt; &lt;a href=&quot;http://www.microsoft.com/windows/internet-explorer/worldwide-sites.aspx&quot;&gt;IE8&lt;/a&gt;&lt;/h2&gt;&lt;/div&gt;</target>
+</trans-unit>
+<trans-unit id="151">
+<source>ID#</source>
+<target>ID#</target>
+</trans-unit>
+<trans-unit id="152">
+<source>No history found.</source>
+<target>Истории нет.</target>
+</trans-unit>
+<trans-unit id="153">
+<source>Search: &quot;%phrase%&quot;</source>
+<target>Поиск: &quot;%phrase%&quot;</target>
+</trans-unit>
+<trans-unit id="154">
+<source>You are logged in as</source>
+<target>Вы вошли как </target>
+</trans-unit>
+<trans-unit id="155">
+<source>Log Out</source>
+<target>Выйти</target>
+</trans-unit>
+<trans-unit id="156">
+<source>Login</source>
+<target>Войти</target>
+</trans-unit>
+<trans-unit id="157">
+<source>Click Edit to select a feed URL.</source>
+<target>Используйте редактирование для выбора URL ленты</target>
+</trans-unit>
+<trans-unit id="158">
+<source>Invalid feed.</source>
+<target>Неверная лента</target>
+</trans-unit>
+<trans-unit id="159">
+<source>Choose PDF</source>
+<target>Выбрать PDF</target>
+</trans-unit>
+<trans-unit id="160">
+<source>Select a PDF File</source>
+<target>Выбрать PDF-файл</target>
+</trans-unit>
+<trans-unit id="161">
+<source>Download PDF</source>
+<target>Скачать PDF</target>
+</trans-unit>
+<trans-unit id="207">
+<source>Full Name</source>
+<target>Полное имя</target>
+</trans-unit>
+<trans-unit id="209">
+<source>Permissions</source>
+<target>Разрешения</target>
+</trans-unit>
+<trans-unit id="211">
+<source>Media Categories</source>
+<target>Категории медиа-файлов</target>
+</trans-unit>
+<trans-unit id="213">
+<source>RSS Feed URL</source>
+<target>Ссылка на RSS-ленту</target>
+</trans-unit>
+<trans-unit id="224">
+<source></source>
+<target>Оригинал:</target>
+</trans-unit>
+<trans-unit id="225">
+<source>Required.</source>
+<target>Обязательный параметр.</target>
+</trans-unit>
+<trans-unit id="226">
+<source>Invalid.</source>
+<target>Неверное значение.</target>
+</trans-unit>
+<trans-unit id="227">
+<source>At least %min% values must be selected (%count% values selected).</source>
+<target>Как минимум нужно выбрать %min% значений (В данный момент выбрано %count% значений).</target>
+</trans-unit>
+<trans-unit id="228">
+<source>At most %max% values must be selected (%count% values selected).</source>
+<target>Максимум можно выбрать %max% значений (В данный момент выбрано %count% значений).</target>
+</trans-unit>
+<trans-unit id="229">
+<source>&quot;%value%&quot; is too long (%max_length% characters max).</source>
+<target>&quot;%value%&quot; превышает допустимую длину (максимально допустимая длина %max_length% символов)</target>
+</trans-unit>
+<trans-unit id="230">
+<source>&quot;%value%&quot; is too short (%min_length% characters min).</source>
+<target>&quot;%value%&quot; имеет очень маленькую длину (минимально  допустимая длина %min_length% символов)</target>
+</trans-unit>
+<trans-unit id="231">
+<source>&quot;%value%&quot; is not an integer.</source>
+<target>&quot;%value%&quot; не является целочисленным.</target>
+</trans-unit>
+<trans-unit id="232">
+<source>&quot;%value%&quot; must be at most %max%.</source>
+<target>&quot;%value%&quot; должно быть больше %max%.</target>
+</trans-unit>
+<trans-unit id="233">
+<source>&quot;%value%&quot; must be at least %min%.</source>
+<target>&quot;%value%&quot; должно быть меньше %min%.</target>
+</trans-unit>
+<trans-unit id="234">
+<source>&quot;%value%&quot; does not match the date format (%date_format%).</source>
+<target>&quot;%value%&quot; не соответствует формату даты (%date_format%). </target>
+</trans-unit>
+<trans-unit id="235">
+<source>The date must be before %max%.</source>
+<target>Дата должна быть раньше чем %max%.</target>
+</trans-unit>
+<trans-unit id="236">
+<source>The date must be after %min%.</source>
+<target>Дата должна быть позже чем %min%.</target>
+</trans-unit>
+<trans-unit id="237">
+<source>File is too large (maximum is %max_size% bytes).</source>
+<target>Файл очень велик (максимально допустимый размер %max_size% байтов).</target>
+</trans-unit>
+<trans-unit id="238">
+<source>Only JPEG, PNG and GIF-format images are accepted.</source>
+<target>Допустимы только следующие форматы изображений: JPEG, PNG и GIF.</target>
+</trans-unit>
+<trans-unit id="239">
+<source>The uploaded file was only partially uploaded.</source>
+<target>Файл был загружен не полностью.</target>
+</trans-unit>
+<trans-unit id="240">
+<source>Missing a temporary folder.</source>
+<target>Отсутствует папка для временных файлов.</target>
+</trans-unit>
+<trans-unit id="241">
+<source>Failed to write file to disk.</source>
+<target>Невозможно записать файл на диск.</target>
+</trans-unit>
+<trans-unit id="242">
+<source>File upload stopped by extension.</source>
+<target>Загрузка файла была прервана.</target>
+</trans-unit>
+<trans-unit id="243">
+<source>You must provide a title.</source>
+<target>Необходимо указать название.</target>
+</trans-unit>
+<trans-unit id="244">
+<source>Title must be &lt;200 characters.</source>
+<target>Название может быть длиной менее 200 символов.</target>
+</trans-unit>
+<trans-unit id="245">
+<source>Title must be at least 3 characters.</source>
+<target>Длина названия должна быть не менее 3 символов.</target>
+</trans-unit>
+<trans-unit id="246">
+<source>Select a JPEG, PNG or GIF file</source>
+<target>Выберите файл в формате JPEG, PNG или GIF.</target>
+</trans-unit>
+<trans-unit id="247">
+<source>JPEG, PNG and GIF only.</source>
+<target>Только JPEG, PNG и GIF .</target>
+</trans-unit>
+<trans-unit id="248">
+<source>Not a valid embed code</source>
+<target>Неверный встроенный (embed) код.</target>
+</trans-unit>
+<trans-unit id="249">
+<source>Invalid mime type (%mime_type%).</source>
+<target>Неверный тип MIME (%mime_type%).</target>
+</trans-unit>
+<trans-unit id="250">
+<source>Not a valid YouTube URL</source>
+<target>Неверная ссылка YouTube.</target>
+</trans-unit>
+<trans-unit id="251">
+<source>Unexpected extra form field named &quot;%field%&quot;.</source>
+<target>Неожиданное поле формы с названием &quot;%field%&quot;.</target>
+</trans-unit>
+<trans-unit id="252">
+<source>The form submission cannot be processed. It probably means that you have uploaded a file that is too big.</source>
+<target>Отправка формы не может быть выполнена. Это возможно означает что, Вы пытаетесь закачать файл очень большого размера.</target>
+</trans-unit>
+<trans-unit id="253">
+<source>Your field contains unsupported HTML tags.</source>
+<target>Поле содержит не поддерживаемые теги HTML.</target>
+</trans-unit>
+<trans-unit id="254">
+<source>Id</source>
+<target>Id</target>
+</trans-unit>
+<trans-unit id="255">
+<source>Type</source>
+<target>Тип</target>
+</trans-unit>
+<trans-unit id="256">
+<source>Value</source>
+<target>Значение</target>
+</trans-unit>
+<trans-unit id="257">
+<source>Page</source>
+<target>Страница</target>
+</trans-unit>
+<trans-unit id="258">
+<source>Name</source>
+<target>Название</target>
+</trans-unit>
+<trans-unit id="259">
+<source>Culture</source>
+<target>Язык</target>
+</trans-unit>
+<trans-unit id="260">
+<source>Latest version</source>
+<target>Последняя версия</target>
+</trans-unit>
+<trans-unit id="261">
+<source>Slug</source>
+<target>Альяс</target>
+</trans-unit>
+<trans-unit id="262">
+<source>Template</source>
+<target>Шаблон</target>
+</trans-unit>
+<trans-unit id="263">
+<source>View is secure</source>
+<target>Безопасный просмотр</target>
+</trans-unit>
+<trans-unit id="264">
+<source>Archived</source>
+<target>Архивная</target>
+</trans-unit>
+<trans-unit id="265">
+<source>Author</source>
+<target>Автор</target>
+</trans-unit>
+<trans-unit id="266">
+<source>Deleter</source>
+<target>Удалил</target>
+</trans-unit>
+<trans-unit id="267">
+<source>Engine</source>
+<target>Движок</target>
+</trans-unit>
+<trans-unit id="268">
+<source>Created at</source>
+<target>Дата создания</target>
+</trans-unit>
+<trans-unit id="269">
+<source>Updated at</source>
+<target>Дата обновления</target>
+</trans-unit>
+<trans-unit id="270">
+<source>Lft</source>
+<target>Лев</target>
+</trans-unit>
+<trans-unit id="271">
+<source>Rgt</source>
+<target>Прав</target>
+</trans-unit>
+<trans-unit id="272">
+<source>Level</source>
+<target>Уровень</target>
+</trans-unit>
+<trans-unit id="273">
+<source>Media categories list</source>
+<target>Список категорий медиа-файлов</target>
+</trans-unit>
+<trans-unit id="274">
+<source>Slot</source>
+<target>Слот</target>
+</trans-unit>
+<trans-unit id="275">
+<source>Area version</source>
+<target>Версия области</target>
+</trans-unit>
+<trans-unit id="276">
+<source>Permid</source>
+<target>КодРазр</target>
+</trans-unit>
+<trans-unit id="277">
+<source>Rank</source>
+<target>Ранг</target>
+</trans-unit>
+<trans-unit id="278">
+<source>Area</source>
+<target>Область</target>
+</trans-unit>
+<trans-unit id="279">
+<source>Version</source>
+<target>Версия</target>
+</trans-unit>
+<trans-unit id="280">
+<source>Diff</source>
+<target>Различия</target>
+</trans-unit>
+<trans-unit id="281">
+<source>Service url</source>
+<target>Сервисная ссылка</target>
+</trans-unit>
+<trans-unit id="282">
+<source>Format</source>
+<target>Формат</target>
+</trans-unit>
+<trans-unit id="283">
+<source>Width</source>
+<target>Ширина</target>
+</trans-unit>
+<trans-unit id="284">
+<source>Height</source>
+<target>Высота</target>
+</trans-unit>
+<trans-unit id="285">
+<source>Embed</source>
+<target>Встроенный</target>
+</trans-unit>
+<trans-unit id="286">
+<source>Title</source>
+<target>Название</target>
+</trans-unit>
+<trans-unit id="287">
+<source>Description</source>
+<target>Описание</target>
+</trans-unit>
+<trans-unit id="288">
+<source>Credit</source>
+<target>Автор</target>
+</trans-unit>
+<trans-unit id="289">
+<source>Tags</source>
+<target>Теги</target>
+</trans-unit>
+<trans-unit id="290">
+<source>Privilege</source>
+<target>Привилегия</target>
+</trans-unit>
+<trans-unit id="291">
+<source>User</source>
+<target>Пользователь</target>
+</trans-unit>
+<trans-unit id="292">
+<source>Editors</source>
+<target>Редакторы</target>
+</trans-unit>
+<trans-unit id="293">
+<source>Managers</source>
+<target>Менеджеры</target>
+</trans-unit>
+<trans-unit id="294">
+<source>File</source>
+<target>Файл</target>
+</trans-unit>
+<trans-unit id="295">
+<source>Email</source>
+<target>Электропочта</target>
+</trans-unit>
+<trans-unit id="296">
+<source>Credits</source>
+<target>Авторы</target>
+</trans-unit>
+<trans-unit id="297">
+<source>Thumbnail</source>
+<target>Миниатюра</target>
+</trans-unit>
+<trans-unit id="298">
+<source>Url</source>
+<target>Ссылка</target>
+</trans-unit>
+<trans-unit id="299">
+<source>Username</source>
+<target>Логин</target>
+</trans-unit>
+<trans-unit id="300">
+<source>Password</source>
+<target>Пароль</target>
+</trans-unit>
+<trans-unit id="301">
+<source>Password again</source>
+<target>Еще разок пароль</target>
+</trans-unit>
+<trans-unit id="302">
+<source>Is active</source>
+<target>Активный</target>
+</trans-unit>
+<trans-unit id="303">
+<source>Htpasswd</source>
+<target>Htpasswd</target>
+</trans-unit>
+<trans-unit id="304">
+<source>Groups list</source>
+<target>Список групп</target>
+</trans-unit>
+<trans-unit id="305">
+<source>Parent</source>
+<target>Родительская</target>
+</trans-unit>
+<trans-unit id="306">
+<source>Tag</source>
+<target>Тег</target>
+</trans-unit>
+<trans-unit id="307">
+<source>Item-0</source>
+<target>Элемент-0</target>
+</trans-unit>
+<trans-unit id="308">
+<source>Item-1</source>
+<target>Элемент-1</target>
+</trans-unit>
+<trans-unit id="309">
+<source>Item-2</source>
+<target>Элемент-2</target>
+</trans-unit>
+<trans-unit id="310">
+<source>Item-3</source>
+<target>Элемент-3</target>
+</trans-unit>
+<trans-unit id="311">
+<source>Item-4</source>
+<target>Элемент-4</target>
+</trans-unit>
+<trans-unit id="312">
+<source>Item-5</source>
+<target>Элемент-5</target>
+</trans-unit>
+<trans-unit id="313">
+<source>Tags should be separated by commas. Example: teachers, kittens, buildings</source>
+<target>Теги следует разделять запятыми. Например: учителя, котята, здания.</target>
+</trans-unit>
+<trans-unit id="314">
+<source>This Page</source>
+<target>Текущая страница</target>
+</trans-unit>
+<trans-unit id="315">
+<source>Choose a User to Add</source>
+<target>Выберите пользователя для добавления</target>
+</trans-unit>
+<trans-unit id="316">
+<source>Home Page</source>
+<target>Главная страница</target>
+</trans-unit>
+<trans-unit id="317">
+<source>Default Page</source>
+<target>Страница по-умолчанию</target>
+</trans-unit>
+<trans-unit id="318">
+<source>Template-Based</source>
+<target>Основано на шаблоне</target>
+</trans-unit>
+<trans-unit id="319">
+<source>Media</source>
+<target>Медиа</target>
+</trans-unit>
+<trans-unit id="320">
+<source>Public</source>
+<target>Общедоступная</target>
+</trans-unit>
+<trans-unit id="321">
+<source>Hidden</source>
+<target>Скрытый</target>
+</trans-unit>
+<trans-unit id="322">
+<source>All</source>
+<target>Все</target>
+</trans-unit>
+<trans-unit id="323">
+<source>Image</source>
+<target>Картинка</target>
+</trans-unit>
+<trans-unit id="324">
+<source>Video</source>
+<target>Видео</target>
+</trans-unit>
+<trans-unit id="325">
+<source>PDF</source>
+<target>PDF</target>
+</trans-unit>
+<trans-unit id="326">
+<source>Reorganize</source>
+<target>Структура</target>
+</trans-unit>
+<trans-unit id="327">
+<source>Users</source>
+<target>Пользователи</target>
+</trans-unit>
+<trans-unit id="345">
+<source>Editing User &quot;%%username%%&quot;</source>
+<target>Редактирование пользователя &quot;%%username%%&quot;</target>
+</trans-unit>
+<trans-unit id="346">
+<source>No result</source>
+<target>Результатов нет.</target>
+</trans-unit>
+<trans-unit id="347">
+<source>Actions</source>
+<target>Действия</target>
+</trans-unit>
+<trans-unit id="348">
+<source>User list</source>
+<target>Список пользователей</target>
+</trans-unit>
+<trans-unit id="349">
+<source>%%username%% - %%created_at%% - %%updated_at%% - %%last_login%%</source>
+<target>%%username%% - %%created_at%% - %%updated_at%% - %%last_login%%</target>
+</trans-unit>
+<trans-unit id="350">
+<source>reset</source>
+<target>сброс</target>
+</trans-unit>
+<trans-unit id="351">
+<source>Choose an action</source>
+<target>Выберите действие</target>
+</trans-unit>
+<trans-unit id="352">
+<source>Checked</source>
+<target>Отмечен</target>
+</trans-unit>
+<trans-unit id="353">
+<source>New User</source>
+<target>Новый пользователь</target>
+</trans-unit>
+<trans-unit id="354">
+<source>Last login</source>
+<target>Время последнего входа</target>
+</trans-unit>
+<trans-unit id="355">
+<source>Editing Permission &quot;%%name%%&quot;</source>
+<target>Редактирование разрешения доступа &quot;%%name%%&quot;</target>
+</trans-unit>
+<trans-unit id="356">
+<source>Permission list</source>
+<target>Список разрешений доступа</target>
+</trans-unit>
+<trans-unit id="357">
+<source>%%name%% - %%description%% - %%created_at%% - %%updated_at%%</source>
+<target>%%name%% - %%description%% - %%created_at%% - %%updated_at%%</target>
+</trans-unit>
+<trans-unit id="358">
+<source>New Permission</source>
+<target>Новое разрешение доступа</target>
+</trans-unit>
+<trans-unit id="359">
+<source>Editing Group &quot;%%name%%&quot;</source>
+<target>Редактирование группы &quot;%%name%%&quot;</target>
+</trans-unit>
+<trans-unit id="360">
+<source>Group list</source>
+<target>Список групп</target>
+</trans-unit>
+<trans-unit id="361">
+<source>New Group</source>
+<target>Новая группа</target>
+</trans-unit>
+<trans-unit id="362">
+<source>Find in Media</source>
+<target>Поиск в медиа-библиотеке</target>
+</trans-unit>
+<trans-unit id="364">
+<source>Plain Text</source>
+<target>Простой текст</target>
+</trans-unit>
+<trans-unit id="365">
+<source>Rich Text</source>
+<target>Текст в формате &quot;Richtext&quot;</target>
+</trans-unit>
+<trans-unit id="366">
+<source>RSS Feed</source>
+<target>Лента RSS</target>
+</trans-unit>
+<trans-unit id="367">
+<source>Slideshow</source>
+<target>Слайд-шоу</target>
+</trans-unit>
+<trans-unit id="368">
+<source>Button</source>
+<target>Кнопка</target>
+</trans-unit>
+<trans-unit id="369">
+<source>Raw HTML</source>
+<target>&quot;Сырой&quot; HTML</target>
+</trans-unit>
+<trans-unit id="370">
+<source>Groups</source>
+<target>Группы</target>
+</trans-unit>
+<trans-unit id="371">
+<source>Remember</source>
+<target>Запомнить меня</target>
+</trans-unit>
+<trans-unit id="372">
+<source>Language</source>
+<target>Язык</target>
+</trans-unit>
+<trans-unit id="373">
+<source>Published</source>
+<target>Опубликована</target>
+</trans-unit>
+<trans-unit id="374">
+<source>Unpublished</source>
+<target>Неопубликована</target>
+</trans-unit>
+<trans-unit id="375">
+<source>results</source>
+<target>результаты</target>
+</trans-unit>
+<trans-unit id="376">
+<source>Login Required</source>
+<target>Требуется авторизация</target>
+</trans-unit>
+<trans-unit id="377">
+<source>The username and/or password is invalid.</source>
+<target>Логин (имя пользователя) и/или пароль введены не верно.</target>
+</trans-unit>
+<trans-unit id="378">
+<source>Create Page</source>
+<target>Создать страницу</target>
+</trans-unit>
+<trans-unit id="379">
+<source>&lt;p&gt;If you want to grant a user the ability to edit a portion of the site, first add them to the &lt;b&gt;editor&lt;/b&gt; group.&lt;/p&gt;&lt;p&gt;Then browse to that area of the site and click the gear to add them to the list of users who can edit in that particular area.&lt;/p&gt;&lt;p&gt;If you want a user to have full control over the entire site, add them to the &lt;b&gt;admin&lt;/b&gt; group.&lt;/p&gt;</source>
+<target>&lt;p&gt;Если Вы хотите дать пользователю возможность редактирования отдельных областей сайта, сначала добавьте его в группу &lt;b&gt;Editor&lt;/b&gt; (редактор), затем найдите эти области, и кликом на них, добавьте в список пользователей, которые могут изменять эти области.&lt;/p&gt;&lt;p&gt;А если же Вы хотите дать полные права доступа к всем элементам сайта, добавьте пользователя в группу &lt;b&gt;Admin&lt;/b&gt; (администратор).&lt;/p&gt;</target>
+</trans-unit>
+<trans-unit id="380">
+<source>New</source>
+<target>Новый элемент</target>
+</trans-unit>
+<trans-unit id="381">
+<source>Back to list</source>
+<target>Назад к списку</target>
+</trans-unit>
+<trans-unit id="382">
+<source>Save and add</source>
+<target>Сохранить и добавть еще</target>
+</trans-unit>
+<trans-unit id="383">
+<source>Filters</source>
+<target>Фильтры</target>
+</trans-unit>
+<trans-unit id="384">
+<source>Password (again)</source>
+<target>Пароль (еще раз)</target>
+</trans-unit>
+<trans-unit id="385">
+<source>There are no categories that contain media.</source>
+<target>Нет категорий содержащих медиа-файлы.</target>
+</trans-unit>
+<trans-unit id="386">
+<source>[0] no result|[1] 1 result|(1,+Inf] %1% results</source>
+<target>[0] резутьтатов нет|[1] 1 результат|(1,4] %1% результата|(4,+Inf] %1% результатов</target>
+</trans-unit>
+<trans-unit id="387">
+<source>The item was created successfully.</source>
+<target>Элемент создан успешно</target>
+</trans-unit>
+<trans-unit id="388">
+<source>The item was updated successfully.</source>
+<target>Элемент успешно загружен</target>
+</trans-unit>
+<trans-unit id="389">
+<source>You can add another one below.</source>
+<target>Можно добавить еще один ниже.</target>
+</trans-unit>
+<trans-unit id="390">
+<source>The item has not been saved due to some errors.</source>
+<target>Элемент не сохранён из-за возникновения ошибок.</target>
+</trans-unit>
+<trans-unit id="391">
+<source>Upload Photos</source>
+<target>Загрузить картинки</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

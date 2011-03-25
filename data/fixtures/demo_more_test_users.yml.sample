@@ -1,0 +1,77 @@
+# This is a work in progress. We need to think about the consequences
+# of unleasing more users people have to delete to secure their sites
+
+sfGuardUser:
+  # This demo user has no privileges other than being able to see
+  # locked pages
+  sgu_admin:
+    username: guest
+    password: guest
+
+  # This client admin user is a member of the admin group, so they can do
+  # everything except designate superadmins 
+  sgu_clientadmin:
+    username: clientadmin
+    password: clientadmin
+    
+  # This demo user can edit everywhere but can't delete or create pages
+  sgu_editall:
+    username: editall
+    password: editall
+
+  # This demo user can edit the about page and things below it, but not elsehwere
+  sgu_editabout:
+    username: editabout
+    password: editabout
+    
+  # This demo user can manage CMS content everywhere, so they can create and delete as well as editing.
+  # But they don't have blanket privileges in the media repository like an admin would
+  sgu_manageall:
+    username: manageall
+    password: manageall
+
+  # This demo user can manage (create and delete) the about page and things below it, but not elsewhere
+  sgu_manageabout:
+    username: manageabout
+    password: manageabout
+
+sfGuardUserGroup:
+  guest_guest:
+    User: guest
+    Group: guest
+  # Membership in the editors group makes you a candidate to edit OR manage depending
+  # on the access an admin chooses to grant at a given point in the page tree
+  editall_editor:
+    User: sgu_editall
+    Group: editor
+  editabout_editor:
+    User: sgu_editabout
+    Group: editor
+  manageall_editor:
+    User: sgu_manageall
+    Group: editor
+  manageabout_editor:
+    User: sgu_manageabout
+    Group: editor
+
+aAccess:
+  # Edit rights to the home page -> edit rights everywhere below it
+  editall_access:
+    User: sgu_editall
+    Page: home
+    privilege: 'edit'
+  # Edit rights to the about page -> edit rights everywhere below it
+  editabout_access:
+    User: sgu_editabout
+    Page: about
+    privilege: 'edit'
+  # Manage rights to the home page -> manage rights everywhere below it
+  manageall_access:
+    User: sgu_manageall
+    Page: home
+    privilege: 'manage'
+  # Manage rights to the about page -> manage rights everywhere below it
+  manageabout_access:
+    User: sgu_editabout
+    Page: about
+    privilege: 'manage'

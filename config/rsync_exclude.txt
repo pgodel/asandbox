@@ -1,0 +1,15 @@
+# rsync doesn't need this explicit rule, but our cloud deployment tools do
+*/.svn/*
+/web/uploads/*
+/web/css-colors-report.html
+/cache/*
+/log/*
+/web/*_dev.php
+/config/require-core.php
+/data/a_writable/*
+# Separate version on the server allows both prod and dev to be tested locally with the
+# local one. Neither version is checked into svn for security reasons since this is a public repo
+/config/databases.yml
+# We are notorious for not having these on all of our machines so don't clobber them on every sync
+# from someone who doesn't have them set up
+/apps/frontend/config/punk-demo-*

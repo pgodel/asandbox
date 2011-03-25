@@ -1,0 +1,29 @@
+Setup:
+
+/apps/frontend/config/app.yml
+
+aFeedback:
+	email_auto: 			'your@email'
+	# If not specified, same as email_auto. This is the address suggested
+	# via a mailto: link if the automatic feedback form somehow fails
+	email_manual: 		'your_other@email'	# Optional
+  # May have to be different at some point depending on your agreement with Akismet
+  akismet_siteurl: 	'http://yourdomain'	# Optional
+  akismet_apikey: 	'yourkey'						# Optional
+
+
+
+/apps/frontend/config/view.yml
+
+	stylesheets:    
+	  - /apostropheFeedbackPlugin/css/aFeedback.css  
+
+	javascripts:  
+	  - /apostropheFeedbackPlugin/js/aFeedback.js
+
+
+
+/apps/frontend/config/settings.yml
+
+	enabled_modules:
+		- aFeedback

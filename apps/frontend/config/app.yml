@@ -1,0 +1,328 @@
+# default values
+all:
+  sf_guard_plugin:
+    # We register our own URLs that we like better.
+    # Also we don't use the default admin gen modules
+    # (Apostrophe comes with a more convenient set)
+    routes_register: false
+  a:
+
+    pager_nb_links: 5
+    
+    # We use this to bring in our own API keys and such, you need to go get your own
+    <?php if (file_exists(dirname(__FILE__) . '/punk-demo-app.yml')) require dirname(__FILE__) . '/punk-demo-app.yml' ?>
+
+    # includes apostrophe css into the project
+    use_bundled_stylesheet: true
+    
+    # default button order for P'unk Projects
+    global_button_order:
+      - blog
+      - events
+      - media
+      - categories
+      - tags
+      - users   
+      - reorganize
+    
+    persistent_global_toolbar: true # false if you want to hide the global toolbar to logged-out visitors
+    
+    # If true, there will be a language switcher next to the login/logout button
+    i18n_switch: true
+    i18n_languages: [en, fr, de, es, ru]
+
+    # By default new slots in an area go to the top, you can change that here
+    # new_slots_top: false
+    routes_register: false
+    default_on: true
+    pretty_english_dates: true
+
+    # Make sure you specify the candidate and sufficient groups for both managing
+    # (that is, deleting and creating) and editing pages. It's typical to use the same
+    # group of candidates for editors and managers, because you can still assign actual
+    # managing and editing privileges for any individual page and its descendants via the
+    # page settings dialog even if the pool of candidates is all one group
+    manage_candidate_group: editor
+    manage_sufficient_group: admin
+    edit_candidate_group: editor
+    edit_sufficient_group: admin
+
+    # Permission to view locked pages. In our recommended fixtures,
+    # the guest, editor and admin groups have this. Users that have no
+    # group membership do not. If you want to give people "off the street" accounts,
+    # this is a useful way to avoid giving them access to locked pages until they
+    # are deemed worthy of membership in the guest group. If you comment out
+    # this line, any authenticated user will be able to view locked pages
+    view_locked_sufficient_credentials: view_locked
+    
+    # Sets the level of CMS Pages allowed to be created by the client 
+    # (e.g. page_level: 1 means the site can only have pages that are 
+    # peers to the homepage peers A.K.A. top navigation pages)
+    # max_page_levels: 3  
+
+    # Maximum number of child pages allowed to be created at any given level
+    # max_children_per_page: 8 
+    
+    # Message displayed next to button if client tries to click
+    # max_page_limit_message: Cannot create a child page here.
+    
+    addslot_button_style: big
+    history_button_style: no-label big
+    delete_button_style: no-label
+    
+    slot_types:
+      aBlog: Blog Posts
+      aBlogSingle: Blog Post
+      aEvent: Events
+      aEventSingle: Event
+      aInsetImage: Inset Image
+      aInsetArea: Inset Area
+      
+      # The following slot types are always enabled (meaning only that you can include them in
+      # individual templates if you wish, so you still have control over what your end users do):
+      #
+      # aRichText
+      # aText
+      # aImage
+      # aSlideshow
+      # aButton
+      # aAudio
+      # aVideo
+      # aPDF
+      # aRawHTML
+      #
+      # You can enable additional slot types implemented at the application level or via
+      # plugins by adding their type names here along with a short descriptive label.
+      # 
+      # Example:
+      #
+      # baseball: "Baseball Box Score"
+      #
+      # (This assumes you have implemented such a slot type of course.)
+      
+    slot_variants:
+      aInsetArea:                       # aInsetArea is part of the apostropheExtraSlotsPlugin
+        topLeft:
+          label: Left Aligned
+          options:
+            insetTemplate: topLeft
+        topRight:
+          label: Right Aligned
+          options: 
+            insetTemplate: topRight
+      aInsetImage:                       # aInsetImage is part of the apostropheExtraSlotsPlugin
+        topLeft:
+          label: Left Aligned
+          options:
+            insetTemplate: topLeft
+        topRight:
+          label: Right Aligned
+          options: 
+            insetTemplate: topRight
+    #   aSlideshow:
+    #     normal:
+    #       label: Normal
+    #       options:
+    #         interval: 0
+    #         title: false
+    #     compact:
+    #       label: Compact
+    #       options:
+    #         interval: 0
+    #         title: true
+    #         arrows: true
+    #         itemTemplate: slideshowItemCompact
+    #     autoplay:
+    #       label: Auto Play
+    #       options:
+    #         interval: 4
+    #         title: true
+    #         arrows: false         
+    #         itemTemplate: slideshowItemCompact            
+    #   aSmartSlideshow:
+    #     normal:
+    #       label: Normal
+    #       options:
+    #         interval: 0
+    #         title: false
+    #         arrows: true
+    #     compact:
+    #       label: Compact
+    #       options:
+    #         interval: 0
+    #         title: true
+    #         arrows: true
+    #         itemTemplate: slideshowItemCompact
+    #     autoplay:
+    #       label: Auto Play
+    #       options:
+    #         interval: 4
+    #         title: true
+    #         arrows: false         
+    #         itemTemplate: slideshowItemCompact            
+
+    templates:
+      # "a:" contains "ordinary page templates"
+      a:
+        default: Default Page
+        home: Home Page
+      # This is how you enable engines as page type choices. If the 
+      # engine supports alternate page templates you can specify more 
+      # than one entry for an engine
+      aMedia:
+        default: Media
+      aBlog:
+        default: Blog
+      aEvent:
+        default: Events
+
+    # Disable ALL bundled CSS and JavaScript. Not recommended.
+    # See below for a more selective approach
+    
+    # use_bundled_stylesheets: false
+    # use_bundled_javascripts: false
+    
+    # Selectively disable or override various bundled styles and javascripts.
+    # Everything you leave alone or set to true loads by default
+    
+    # Uncomment below to disable the styles for that section
+    
+    # use_bundled_stylesheets:
+       # admin: false
+       # forms: false
+       # components: false
+       # engines: false
+       # navigation: false
+       # area-slots: false
+       # buttons: false
+       # colors: false
+       # utility: false       
+       
+       # OR, to override a specific stylesheet with a different one:
+       # engines: /foo/bar.css
+
+    
+    # Uncomment below to disable the Javascripts for that section
+    # (not recommended) or override them with a different release
+    # (probably OK for a new jquery release for instance)
+
+    # use_bundled_javascripts:
+      # To turn one off uncomment it...
+      # jquery: false
+      # main: false
+      # controls: false
+      # json2: false
+      # jquery-autogrow: false
+      # jquery-hover-intent: false
+      # jquery-ui: false
+      # tagahead: false
+       
+      # To override one set a different path instead of false
+      # jquery: /js/myjquery.js
+           
+    # We're using it as the sitewide layout instead (see view.yml)
+    use_bundled_layout: false   
+
+    # do_not_edit: true   # Quickly and easily display the 'Do Not Edit' message on staging sites after launch.
+      
+  aAdmin:
+    web_dir: /apostrophePlugin
+
+  aMedia:
+    # If not set, the same site is assumed
+    # client_site: "http://www.mymediasite.com/"
+    # You should change this both here and below
+    client_apikey: 'dummy'
+    apikeys:
+      - 'dummy'
+    apipublic: false
+    admin_credential: media_admin
+    upload_credential: media_upload
+    use_bundled_layout: false
+    embed_codes: true        
+    
+  aEvents:
+    display_calendar: true 
+  
+  # aBlog:
+    # Disqus Comments
+    # Once you have a Disqus account, enable comments and put in your Disqus shortname
+    # disqus_enabled: true
+    # disqus_shortname: yourdisqusshortname
+
+    # enable this if you are developing locally to see comments
+    # disqus_developer: true
+      
+  aToolkit:
+    indexes:
+      - 'aPage'
+      - 'aMediaItem'
+
+  # options for sfSyncContentPlugin, used to sync the database and also
+  # data files such as the media plugin's images and the search indexes. 
+  # You can extend this if you have more data file folders
+
+  sfSyncContent:
+    # The database is content, of course, but what else?
+    content:
+      # Almost always
+      - "web/uploads"
+      # If you use P'unk Avenue stuff
+      - "data/a_writable"
+
+  # For us this is the right place to find the netpbm utilities and ghostscript 
+  # (pnmtopng, gs, etc). Change it if your environment differs. Note that the
+  # default PATH is still searched too, so on most production servers you can 
+  # leave this setting alone and not break it out separately for prod
+
+  aimageconverter:
+    path: /opt/local/bin
+    # To force use of gd shut off netpbm
+    # netpbm: false
+    # To force use of netpbm set it to 'always'
+    # netpbm: always
+    # Default is to use gd for images under 1024x768 for performance reasons,
+    # and because most (though not all) images with alpha channels (preserved by gd) are
+    # that small or smaller
+
+  # You need to set this to your site's hostname to use a:refresh to update
+  # URLs in media slots etc
+
+#  cli:
+#    host: cmstest14
+
+# In the production environment, we minify CSS and JS by default.
+# We'd like to gzip them too, but a lot of people don't have the
+# zlib extension in PHP. We encourage you to turn that on and see.
+# If you don't have the zlib extension have your host/sysadmin fix that
+
+# TODO: right now I have both turned on to demonstrate what this branch
+# is all about, but a_minify_gzip needs turning off before this becomes
+# the mainstream sandbox. We should always turn it on again when creating
+# our own client sites
+
+# WARNING: if you turn off all settings here for 'prod', COMMENT OUT the 
+# 'prod' and 'a' lines too or you will shut off ALL of your Apostrophe settings
+
+prod:
+  a:
+    # Combines css and js files. You want this, because we use a lot of them
+    minify: true
+    # If you don't have the gzip extension in PHP or you don't have Apache configured
+    # to cope with gzipped files, just set this false. If you do have those things
+    # consider setting it true for even better front end performance
+    minify_gzip: false
+
+# staging ought to be just like prod so we are not stunned and amazed
+# by the behavior of prod
+
+staging:
+  a:
+    minify: true
+    # If you don't have the gzip extension in PHP or you don't have Apache configured
+    # to cope with gzipped files, just set this false
+    minify_gzip: false
+
+dev:
+  a:
+    js_debug: true

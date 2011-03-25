@@ -1,0 +1,1167 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+<file original="apostrophe" source-language="en_US" datatype="plaintext">
+<body>
+<trans-unit id="1">
+<source>Remember</source>
+<target>Remember</target>
+</trans-unit>
+<trans-unit id="2">
+<source>The username and/or password is invalid.</source>
+<target>The username and/or password is invalid.</target>
+</trans-unit>
+<trans-unit id="3">
+<source>Save and add</source>
+<target>Save and add</target>
+</trans-unit>
+<trans-unit id="4">
+<source>Password (again)</source>
+<target>Password (again)</target>
+</trans-unit>
+<trans-unit id="5">
+<source>All</source>
+<target>All</target>
+</trans-unit>
+<trans-unit id="6">
+<source>Image</source>
+<target>Image</target>
+</trans-unit>
+<trans-unit id="7">
+<source>Video</source>
+<target>Video</target>
+</trans-unit>
+<trans-unit id="8">
+<source>PDF</source>
+<target>PDF</target>
+</trans-unit>
+<trans-unit id="9">
+<source>Public</source>
+<target>Public</target>
+</trans-unit>
+<trans-unit id="10">
+<source>Hidden</source>
+<target>Hidden</target>
+</trans-unit>
+<trans-unit id="11">
+<source>Replace File</source>
+<target>Replace File</target>
+</trans-unit>
+<trans-unit id="12">
+<source>Choose a User to Add</source>
+<target>Choose a User to Add</target>
+</trans-unit>
+<trans-unit id="13">
+<source>Home Page</source>
+<target>Home Page</target>
+</trans-unit>
+<trans-unit id="14">
+<source>Default Page</source>
+<target>Default Page</target>
+</trans-unit>
+<trans-unit id="15">
+<source>Template-Based</source>
+<target>Template-Based</target>
+</trans-unit>
+<trans-unit id="16">
+<source>Media</source>
+<target>Media</target>
+</trans-unit>
+<trans-unit id="17">
+<source>Published</source>
+<target>Published</target>
+</trans-unit>
+<trans-unit id="18">
+<source>Unpublished</source>
+<target>Unpublished</target>
+</trans-unit>
+<trans-unit id="19">
+<source>results</source>
+<target>results</target>
+</trans-unit>
+<trans-unit id="20">
+<source>Login Required</source>
+<target>Login Required</target>
+</trans-unit>
+<trans-unit id="21">
+<source>Reorganize</source>
+<target>Reorganize</target>
+</trans-unit>
+<trans-unit id="22">
+<source>Users</source>
+<target>Users</target>
+</trans-unit>
+<trans-unit id="23">
+<source>Plain Text</source>
+<target>Plain Text</target>
+</trans-unit>
+<trans-unit id="24">
+<source>Rich Text</source>
+<target>Rich Text</target>
+</trans-unit>
+<trans-unit id="25">
+<source>RSS Feed</source>
+<target>RSS Feed</target>
+</trans-unit>
+<trans-unit id="26">
+<source>Slideshow</source>
+<target>Slideshow</target>
+</trans-unit>
+<trans-unit id="27">
+<source>Button</source>
+<target>Button</target>
+</trans-unit>
+<trans-unit id="28">
+<source>Raw HTML</source>
+<target>Raw HTML</target>
+</trans-unit>
+<trans-unit id="29">
+<source>Apostrophe Now</source>
+<target>Apostrophe Now</target>
+</trans-unit>
+<trans-unit id="30">
+<source>Picturebook</source>
+<target>Picturebook</target>
+</trans-unit>
+<trans-unit id="31">
+<source>Journal</source>
+<target>Journal</target>
+</trans-unit>
+<trans-unit id="32">
+<source>Add Page</source>
+<target>Add Page</target>
+</trans-unit>
+<trans-unit id="33">
+<source>Choose a revision.</source>
+<target>Choose a revision.</target>
+</trans-unit>
+<trans-unit id="34">
+<source>Date</source>
+<target>Date</target>
+</trans-unit>
+<trans-unit id="35">
+<source>Editor</source>
+<target>Editor</target>
+</trans-unit>
+<trans-unit id="36">
+<source>Preview</source>
+<target>Preview</target>
+</trans-unit>
+<trans-unit id="37">
+<source>View More Revisions</source>
+<target>View More Revisions</target>
+</trans-unit>
+<trans-unit id="38">
+<source>You are previewing another version of this content area. This will not become the current version unless you click &quot;Save As Current Revision.&quot; If you change your mind, click &quot;Cancel.&quot;</source>
+<target>You are previewing another version of this content area. This will not become the current version unless you click &quot;Save As Current Revision.&quot; If you change your mind, click &quot;Cancel.&quot;</target>
+</trans-unit>
+<trans-unit id="39">
+<source>You are logged in as</source>
+<target>You are logged in as</target>
+</trans-unit>
+<trans-unit id="40">
+<source>Log Out</source>
+<target>Log Out</target>
+</trans-unit>
+<trans-unit id="41">
+<source>Double-click to edit.</source>
+<target>Double-click to edit.</target>
+</trans-unit>
+<trans-unit id="42">
+<source>Hide &quot;Off&quot; Pages</source>
+<target>Hide &quot;Off&quot; Pages</target>
+</trans-unit>
+<trans-unit id="43">
+<source>Show &quot;Off&quot; Pages</source>
+<target>Show &quot;Off&quot; Pages</target>
+</trans-unit>
+<trans-unit id="44">
+<source>Options</source>
+<target>Options</target>
+</trans-unit>
+<trans-unit id="45">
+<source>Click here to continue.</source>
+<target>Click here to continue.</target>
+</trans-unit>
+<trans-unit id="46">
+<source>ID#</source>
+<target>ID#</target>
+</trans-unit>
+<trans-unit id="47">
+<source>No history found.</source>
+<target>No history found.</target>
+</trans-unit>
+<trans-unit id="48">
+<source>You are using IE6! That is just awful! Apostrophe does not support editing using Internet Explorer 6. Why don't you try upgrading? &lt;a href=&quot;http://www.getfirefox.com&quot;&gt;Firefox&lt;/a&gt; &lt;a href=&quot;http://www.google.com/chrome&quot;&gt;Chrome&lt;/a&gt; 	&lt;a href=&quot;http://www.apple.com/safari/download/&quot;&gt;Safari&lt;/a&gt; &lt;a href=&quot;http://www.microsoft.com/windows/internet-explorer/worldwide-sites.aspx&quot;&gt;IE8&lt;/a&gt;</source>
+<target>You are using IE6! That is just awful! Apostrophe does not support editing using Internet Explorer 6. Why don't you try upgrading? &lt;a href=&quot;http://www.getfirefox.com&quot;&gt;Firefox&lt;/a&gt; &lt;a href=&quot;http://www.google.com/chrome&quot;&gt;Chrome&lt;/a&gt; 	&lt;a href=&quot;http://www.apple.com/safari/download/&quot;&gt;Safari&lt;/a&gt; &lt;a href=&quot;http://www.microsoft.com/windows/internet-explorer/worldwide-sites.aspx&quot;&gt;IE8&lt;/a&gt;</target>
+</trans-unit>
+<trans-unit id="49">
+<source>Drag and drop pages to reorganize the site.</source>
+<target>Drag and drop pages to reorganize the site.</target>
+</trans-unit>
+<trans-unit id="50">
+<source>Search: &quot;%phrase%&quot;</source>
+<target>Search: &quot;%phrase%&quot;</target>
+</trans-unit>
+<trans-unit id="51">
+<source>Secure Area &amp;mdash; The page you are looking for requires certain credentials to access it.</source>
+<target>Secure Area &amp;mdash; The page you are looking for requires certain credentials to access it.</target>
+</trans-unit>
+<trans-unit id="52">
+<source>Go Home.</source>
+<target>Go Home.</target>
+</trans-unit>
+<trans-unit id="53">
+<source>Title</source>
+<target>Title</target>
+</trans-unit>
+<trans-unit id="54">
+<source>apply to subpages</source>
+<target>apply to subpages</target>
+</trans-unit>
+<trans-unit id="55">
+<source>Meta Description</source>
+<target>Meta Description</target>
+</trans-unit>
+<trans-unit id="56">
+<source>This page has children that will also be deleted. </source>
+<target>This page has children that will also be deleted. </target>
+</trans-unit>
+<trans-unit id="57">
+<source>Delete This Page</source>
+<target>Delete This Page</target>
+</trans-unit>
+<trans-unit id="58">
+<source>Are you sure? This operation can not be undone. Consider unpublishing the page instead.</source>
+<target>Are you sure? This operation can not be undone. Consider unpublishing the page instead.</target>
+</trans-unit>
+<trans-unit id="59">
+<source>Download Audio File</source>
+<target>Download Audio File</target>
+</trans-unit>
+<trans-unit id="60">
+<source>The item was created successfully.</source>
+<target>The item was created successfully.</target>
+</trans-unit>
+<trans-unit id="61">
+<source>The item was updated successfully.</source>
+<target>The item was updated successfully.</target>
+</trans-unit>
+<trans-unit id="62">
+<source>You can add another one below.</source>
+<target>You can add another one below.</target>
+</trans-unit>
+<trans-unit id="63">
+<source>The item has not been saved due to some errors.</source>
+<target>The item has not been saved due to some errors.</target>
+</trans-unit>
+<trans-unit id="64">
+<source>You are managing categories for content on your site.</source>
+<target>You are managing categories for content on your site.</target>
+</trans-unit>
+<trans-unit id="65">
+<source>Click Edit to select a feed URL.</source>
+<target>Click Edit to select a feed URL.</target>
+</trans-unit>
+<trans-unit id="66">
+<source>Invalid feed.</source>
+<target>Invalid feed.</target>
+</trans-unit>
+<trans-unit id="67">
+<source>Download file</source>
+<target>Download file</target>
+</trans-unit>
+<trans-unit id="68">
+<source>Selected Tag</source>
+<target>Selected Tag</target>
+</trans-unit>
+<trans-unit id="69">
+<source>Popular Tags</source>
+<target>Popular Tags</target>
+</trans-unit>
+<trans-unit id="70">
+<source>All Tags</source>
+<target>All Tags</target>
+</trans-unit>
+<trans-unit id="71">
+<source>Only images that can be used are displayed below. &lt;br/&gt;Some images in your media library may not be large enough to be selected.</source>
+<target>Only images that can be used are displayed below. &lt;br/&gt;Some images in your media library may not be large enough to be selected.</target>
+</trans-unit>
+<trans-unit id="72">
+<source>A %w%x%h% aspect ratio</source>
+<target>A %w%x%h% aspect ratio</target>
+</trans-unit>
+<trans-unit id="73">
+<source>A minimum width of %mw% pixels</source>
+<target>A minimum width of %mw% pixels</target>
+</trans-unit>
+<trans-unit id="74">
+<source>A minimum height of %mh% pixels</source>
+<target>A minimum height of %mh% pixels</target>
+</trans-unit>
+<trans-unit id="75">
+<source>A width of exactly %w% pixels</source>
+<target>A width of exactly %w% pixels</target>
+</trans-unit>
+<trans-unit id="76">
+<source>A height of exactly %h% pixels</source>
+<target>A height of exactly %h% pixels</target>
+</trans-unit>
+<trans-unit id="77">
+<source>items</source>
+<target>items</target>
+</trans-unit>
+<trans-unit id="78">
+<source>Displaying only %t% with:</source>
+<target>Displaying only %t% with:</target>
+</trans-unit>
+<trans-unit id="79">
+<source>Permissions: Hidden Photos can be used in photo slots, but are not displayed in the Media section.</source>
+<target>Permissions: Hidden Photos can be used in photo slots, but are not displayed in the Media section.</target>
+</trans-unit>
+<trans-unit id="80">
+<source>%buttonspan%Download Original</source>
+<target>%buttonspan%Download Original</target>
+</trans-unit>
+<trans-unit id="81">
+<source>Delete</source>
+<target>Delete</target>
+</trans-unit>
+<trans-unit id="82">
+<source>Are you sure you want to delete this item?</source>
+<target>Are you sure you want to delete this item?</target>
+</trans-unit>
+<trans-unit id="83">
+<source>Example: %embed%</source>
+<target>Example: %embed%</target>
+</trans-unit>
+<trans-unit id="84">
+<source>Media Library</source>
+<target>Media Library</target>
+</trans-unit>
+<trans-unit id="85">
+<source>&lt;span&gt;Permalink:&lt;/span&gt; %urlfield%</source>
+<target>&lt;span&gt;Permalink:&lt;/span&gt; %urlfield%</target>
+</trans-unit>
+<trans-unit id="86">
+<source>&lt;span&gt;Uploaded:&lt;/span&gt; %date%</source>
+<target>&lt;span&gt;Uploaded:&lt;/span&gt; %date%</target>
+</trans-unit>
+<trans-unit id="87">
+<source>&lt;span&gt;Original Dimensions:&lt;/span&gt; %width%x%height%</source>
+<target>&lt;span&gt;Original Dimensions:&lt;/span&gt; %width%x%height%</target>
+</trans-unit>
+<trans-unit id="88">
+<source>&lt;span&gt;Credit:&lt;/span&gt; %credit%</source>
+<target>&lt;span&gt;Credit:&lt;/span&gt; %credit%</target>
+</trans-unit>
+<trans-unit id="89">
+<source>&lt;span&gt;Categories:&lt;/span&gt; %categories%</source>
+<target>&lt;span&gt;Categories:&lt;/span&gt; %categories%</target>
+</trans-unit>
+<trans-unit id="90">
+<source>&lt;span&gt;Tags:&lt;/span&gt; %tags%</source>
+<target>&lt;span&gt;Tags:&lt;/span&gt; %tags%</target>
+</trans-unit>
+<trans-unit id="91">
+<source>Edit</source>
+<target>Edit</target>
+</trans-unit>
+<trans-unit id="92">
+<source>Drag &amp;amp; Drop to Order</source>
+<target>Drag &amp;amp; Drop to Order</target>
+</trans-unit>
+<trans-unit id="93">
+<source>Select images for your slideshow</source>
+<target>Select images for your slideshow</target>
+</trans-unit>
+<trans-unit id="94">
+<source>Select an image</source>
+<target>Select an image</target>
+</trans-unit>
+<trans-unit id="95">
+<source>Crop</source>
+<target>Crop</target>
+</trans-unit>
+<trans-unit id="96">
+<source>Cancel</source>
+<target>Cancel</target>
+</trans-unit>
+<trans-unit id="97">
+<source>Save Selection</source>
+<target>Save Selection</target>
+</trans-unit>
+<trans-unit id="98">
+<source>Use the browsing and searching features to locate the %type% you want, then click to select it.</source>
+<target>Use the browsing and searching features to locate the %type% you want, then click to select it.</target>
+</trans-unit>
+<trans-unit id="99">
+<source>Only appropriately sized %typeplural% are shown.</source>
+<target>Only appropriately sized %typeplural% are shown.</target>
+</trans-unit>
+<trans-unit id="100">
+<source>, </source>
+<target>, </target>
+</trans-unit>
+<trans-unit id="101">
+<source>File too large. Limit is %POSTMAXSIZE%</source>
+<target>File too large. Limit is %POSTMAXSIZE%</target>
+</trans-unit>
+<trans-unit id="102">
+<source>No matching items were found.</source>
+<target>No matching items were found.</target>
+</trans-unit>
+<trans-unit id="103">
+<source>Annotate </source>
+<target>Annotate </target>
+</trans-unit>
+<trans-unit id="104">
+<source>You are editing: %title%</source>
+<target>You are editing: %title%</target>
+</trans-unit>
+<trans-unit id="105">
+<source>Editing Video: %title%</source>
+<target>Editing Video: %title%</target>
+</trans-unit>
+<trans-unit id="106">
+<source>Add Video</source>
+<target>Add Video</target>
+</trans-unit>
+<trans-unit id="107">
+<source>Clear Search</source>
+<target>Clear Search</target>
+</trans-unit>
+<trans-unit id="108">
+<source>First Page</source>
+<target>First Page</target>
+</trans-unit>
+<trans-unit id="109">
+<source>Previous Page</source>
+<target>Previous Page</target>
+</trans-unit>
+<trans-unit id="110">
+<source>Next Page</source>
+<target>Next Page</target>
+</trans-unit>
+<trans-unit id="111">
+<source>Last Page</source>
+<target>Last Page</target>
+</trans-unit>
+<trans-unit id="112">
+<source>Download PDF</source>
+<target>Download PDF</target>
+</trans-unit>
+<trans-unit id="113">
+<source>Click edit to add text.</source>
+<target>Click edit to add text.</target>
+</trans-unit>
+<trans-unit id="114">
+<source>Click For Next Image</source>
+<target>Click For Next Image</target>
+</trans-unit>
+<trans-unit id="115">
+<source>Previous</source>
+<target>Previous</target>
+</trans-unit>
+<trans-unit id="116">
+<source>Next</source>
+<target>Next</target>
+</trans-unit>
+<trans-unit id="117">
+<source>Photo Credit: %credit%</source>
+<target>Photo Credit: %credit%</target>
+</trans-unit>
+<trans-unit id="118">
+<source>Category</source>
+<target>Category</target>
+</trans-unit>
+<trans-unit id="119">
+<source>Tags</source>
+<target>Tags</target>
+</trans-unit>
+<trans-unit id="120">
+<source>&lt;p&gt;If you want to grant a user the ability to edit a portion of the site, first add them to the &lt;b&gt;editor&lt;/b&gt; group.&lt;/p&gt;&lt;p&gt;Then browse to that area of the site and click the gear to add them to the list of users who can edit in that particular area.&lt;/p&gt;&lt;p&gt;If you want a user to have full control over the entire site, add them to the &lt;b&gt;admin&lt;/b&gt; group.&lt;/p&gt;</source>
+<target>&lt;p&gt;If you want to grant a user the ability to edit a portion of the site, first add them to the &lt;b&gt;editor&lt;/b&gt; group.&lt;/p&gt;&lt;p&gt;Then browse to that area of the site and click the gear to add them to the list of users who can edit in that particular area.&lt;/p&gt;&lt;p&gt;If you want a user to have full control over the entire site, add them to the &lt;b&gt;admin&lt;/b&gt; group.&lt;/p&gt;</target>
+</trans-unit>
+<trans-unit id="121">
+<source>New</source>
+<target>New</target>
+</trans-unit>
+<trans-unit id="122">
+<source>User Dashboard</source>
+<target>User Dashboard</target>
+</trans-unit>
+<trans-unit id="123">
+<source>Add User</source>
+<target>Add User</target>
+</trans-unit>
+<trans-unit id="124">
+<source>Group Dashboard</source>
+<target>Group Dashboard</target>
+</trans-unit>
+<trans-unit id="125">
+<source>Add Group</source>
+<target>Add Group</target>
+</trans-unit>
+<trans-unit id="126">
+<source>Permissions Dashboard</source>
+<target>Permissions Dashboard</target>
+</trans-unit>
+<trans-unit id="127">
+<source>Add Permission</source>
+<target>Add Permission</target>
+</trans-unit>
+<trans-unit id="128">
+<source>Posted By:</source>
+<target>Posted By:</target>
+</trans-unit>
+<trans-unit id="129">
+<source>Blog Post Admin</source>
+<target>Blog Post Admin</target>
+</trans-unit>
+<trans-unit id="130">
+<source>View All Posts</source>
+<target>View All Posts</target>
+</trans-unit>
+<trans-unit id="131">
+<source>Search by Title</source>
+<target>Search by Title</target>
+</trans-unit>
+<trans-unit id="132">
+<source>View All Events</source>
+<target>View All Events</target>
+</trans-unit>
+<trans-unit id="133">
+<source>Filters</source>
+<target>Filters</target>
+</trans-unit>
+<trans-unit id="134">
+<source>No result</source>
+<target>No result</target>
+</trans-unit>
+<trans-unit id="135">
+<source>Actions</source>
+<target>Actions</target>
+</trans-unit>
+<trans-unit id="136">
+<source>[0] no result|[1] 1 result|(1,+Inf] %1% results</source>
+<target>[0] no result|[1] 1 result|(1,+Inf] %1% results</target>
+</trans-unit>
+<trans-unit id="137">
+<source>User list</source>
+<target>User list</target>
+</trans-unit>
+<trans-unit id="138">
+<source>Choose an action</source>
+<target>Choose an action</target>
+</trans-unit>
+<trans-unit id="139">
+<source>Checked</source>
+<target>Checked</target>
+</trans-unit>
+<trans-unit id="140">
+<source>%%username%% - %%first_name%% - %%last_name%% - %%created_at%% - %%last_login%%</source>
+<target>%%username%% - %%first_name%% - %%last_name%% - %%created_at%% - %%last_login%%</target>
+</trans-unit>
+<trans-unit id="141">
+<source>Username</source>
+<target>Username</target>
+</trans-unit>
+<trans-unit id="142">
+<source>First name</source>
+<target>First name</target>
+</trans-unit>
+<trans-unit id="143">
+<source>Last name</source>
+<target>Last name</target>
+</trans-unit>
+<trans-unit id="144">
+<source>Created at</source>
+<target>Created at</target>
+</trans-unit>
+<trans-unit id="145">
+<source>Last login</source>
+<target>Last login</target>
+</trans-unit>
+<trans-unit id="146">
+<source>Editing User &quot;%%username%%&quot;</source>
+<target>Editing User &quot;%%username%%&quot;</target>
+</trans-unit>
+<trans-unit id="147">
+<source>New User</source>
+<target>New User</target>
+</trans-unit>
+<trans-unit id="148">
+<source>Permission list</source>
+<target>Permission list</target>
+</trans-unit>
+<trans-unit id="149">
+<source>%%name%% - %%description%% - %%created_at%% - %%updated_at%%</source>
+<target>%%name%% - %%description%% - %%created_at%% - %%updated_at%%</target>
+</trans-unit>
+<trans-unit id="150">
+<source>Name</source>
+<target>Name</target>
+</trans-unit>
+<trans-unit id="151">
+<source>Description</source>
+<target>Description</target>
+</trans-unit>
+<trans-unit id="152">
+<source>Updated at</source>
+<target>Updated at</target>
+</trans-unit>
+<trans-unit id="153">
+<source>Editing Permission &quot;%%name%%&quot;</source>
+<target>Editing Permission &quot;%%name%%&quot;</target>
+</trans-unit>
+<trans-unit id="154">
+<source>New Permission</source>
+<target>New Permission</target>
+</trans-unit>
+<trans-unit id="155">
+<source>Group list</source>
+<target>Group list</target>
+</trans-unit>
+<trans-unit id="156">
+<source>%%name%% - %%description%% - %%created_at%%</source>
+<target>%%name%% - %%description%% - %%created_at%%</target>
+</trans-unit>
+<trans-unit id="157">
+<source>Editing Group &quot;%%name%%&quot;</source>
+<target>Editing Group &quot;%%name%%&quot;</target>
+</trans-unit>
+<trans-unit id="158">
+<source>New Group</source>
+<target>New Group</target>
+</trans-unit>
+<trans-unit id="159">
+<source>New Post</source>
+<target>New Post</target>
+</trans-unit>
+<trans-unit id="160">
+<source>Blog Admin</source>
+<target>Blog Admin</target>
+</trans-unit>
+<trans-unit id="161">
+<source>Publish</source>
+<target>Publish</target>
+</trans-unit>
+<trans-unit id="162">
+<source>Unpublish</source>
+<target>Unpublish</target>
+</trans-unit>
+<trans-unit id="163">
+<source>%%title%% - %%author_id%% - %%editors_list%% - %%tags_list%% - %%categories_list%% - %%status%% - %%published_at%%</source>
+<target>%%title%% - %%author_id%% - %%editors_list%% - %%tags_list%% - %%categories_list%% - %%status%% - %%published_at%%</target>
+</trans-unit>
+<trans-unit id="164">
+<source>&lt;span class=&quot;icon&quot;&gt;&lt;/span&gt;Descending</source>
+<target>&lt;span class=&quot;icon&quot;&gt;&lt;/span&gt;Descending</target>
+</trans-unit>
+<trans-unit id="165">
+<source>&lt;span class=&quot;icon&quot;&gt;&lt;/span&gt;Ascending</source>
+<target>&lt;span class=&quot;icon&quot;&gt;&lt;/span&gt;Ascending</target>
+</trans-unit>
+<trans-unit id="166">
+<source>Ascending</source>
+<target>Ascending</target>
+</trans-unit>
+<trans-unit id="167">
+<source>Author</source>
+<target>Author</target>
+</trans-unit>
+<trans-unit id="168">
+<source>Editors</source>
+<target>Editors</target>
+</trans-unit>
+<trans-unit id="169">
+<source>Categories</source>
+<target>Categories</target>
+</trans-unit>
+<trans-unit id="170">
+<source>Status</source>
+<target>Status</target>
+</trans-unit>
+<trans-unit id="171">
+<source>Edit ABlogAdmin</source>
+<target>Edit ABlogAdmin</target>
+</trans-unit>
+<trans-unit id="172">
+<source>New ABlogAdmin</source>
+<target>New ABlogAdmin</target>
+</trans-unit>
+<trans-unit id="173">
+<source>&lt;span class=&quot;icon&quot;&gt;&lt;/span&gt;New Event</source>
+<target>&lt;span class=&quot;icon&quot;&gt;&lt;/span&gt;New Event</target>
+</trans-unit>
+<trans-unit id="174">
+<source>Event Admin</source>
+<target>Event Admin</target>
+</trans-unit>
+<trans-unit id="175">
+<source>%%title%% - %%author_id%% - %%editors_list%% - %%tags_list%% - %%categories_list%% - %%status%% - %%start_date%%</source>
+<target>%%title%% - %%author_id%% - %%editors_list%% - %%tags_list%% - %%categories_list%% - %%status%% - %%start_date%%</target>
+</trans-unit>
+<trans-unit id="176">
+<source>Edit AEventAdmin</source>
+<target>Edit AEventAdmin</target>
+</trans-unit>
+<trans-unit id="177">
+<source>New AEventAdmin</source>
+<target>New AEventAdmin</target>
+</trans-unit>
+<trans-unit id="178">
+<source>&lt;span class=&quot;icon&quot;&gt;&lt;/span&gt; New Tag</source>
+<target>&lt;span class=&quot;icon&quot;&gt;&lt;/span&gt; New Tag</target>
+</trans-unit>
+<trans-unit id="179">
+<source>&lt;span class=&quot;icon&quot;&gt;&lt;/span&gt; Clean Tags</source>
+<target>&lt;span class=&quot;icon&quot;&gt;&lt;/span&gt; Clean Tags</target>
+</trans-unit>
+<trans-unit id="180">
+<source>Tags Admin</source>
+<target>Tags Admin</target>
+</trans-unit>
+<trans-unit id="181">
+<source>%%name%% - %%tag_aBlogPost%% - %%tag_aEvent%% - %%tag_aMediaItem%% - %%tag_aPage%%</source>
+<target>%%name%% - %%tag_aBlogPost%% - %%tag_aEvent%% - %%tag_aMediaItem%% - %%tag_aPage%%</target>
+</trans-unit>
+<trans-unit id="182">
+<source>Tag</source>
+<target>Tag</target>
+</trans-unit>
+<trans-unit id="183">
+<source>Blog</source>
+<target>Blog</target>
+</trans-unit>
+<trans-unit id="184">
+<source>Events</source>
+<target>Events</target>
+</trans-unit>
+<trans-unit id="185">
+<source>Pages</source>
+<target>Pages</target>
+</trans-unit>
+<trans-unit id="186">
+<source>Edit Tag</source>
+<target>Edit Tag</target>
+</trans-unit>
+<trans-unit id="187">
+<source>New Tag</source>
+<target>New Tag</target>
+</trans-unit>
+<trans-unit id="188">
+<source>&lt;span class=&quot;icon&quot;&gt;&lt;/span&gt;New Category</source>
+<target>&lt;span class=&quot;icon&quot;&gt;&lt;/span&gt;New Category</target>
+</trans-unit>
+<trans-unit id="189">
+<source>Categories Admin</source>
+<target>Categories Admin</target>
+</trans-unit>
+<trans-unit id="190">
+<source>%%name%% - %%users%% - %%groups%%</source>
+<target>%%name%% - %%users%% - %%groups%%</target>
+</trans-unit>
+<trans-unit id="191">
+<source>Active Users</source>
+<target>Active Users</target>
+</trans-unit>
+<trans-unit id="192">
+<source>Groups</source>
+<target>Groups</target>
+</trans-unit>
+<trans-unit id="193">
+<source>Blog Posts</source>
+<target>Blog Posts</target>
+</trans-unit>
+<trans-unit id="194">
+<source>Edit Category</source>
+<target>Edit Category</target>
+</trans-unit>
+<trans-unit id="195">
+<source>New Category</source>
+<target>New Category</target>
+</trans-unit>
+<trans-unit id="196">
+<source>Required.</source>
+<target>Required.</target>
+</trans-unit>
+<trans-unit id="197">
+<source>Invalid.</source>
+<target>Invalid.</target>
+</trans-unit>
+<trans-unit id="198">
+<source>&quot;%value%&quot; is too long (%max_length% characters max).</source>
+<target>&quot;%value%&quot; is too long (%max_length% characters max).</target>
+</trans-unit>
+<trans-unit id="199">
+<source>&quot;%value%&quot; is too short (%min_length% characters min).</source>
+<target>&quot;%value%&quot; is too short (%min_length% characters min).</target>
+</trans-unit>
+<trans-unit id="200">
+<source>Groups list</source>
+<target>Groups list</target>
+</trans-unit>
+<trans-unit id="201">
+<source>At least %min% values must be selected (%count% values selected).</source>
+<target>At least %min% values must be selected (%count% values selected).</target>
+</trans-unit>
+<trans-unit id="202">
+<source>At most %max% values must be selected (%count% values selected).</source>
+<target>At most %max% values must be selected (%count% values selected).</target>
+</trans-unit>
+<trans-unit id="203">
+<source>Users list</source>
+<target>Users list</target>
+</trans-unit>
+<trans-unit id="204">
+<source>Id</source>
+<target>Id</target>
+</trans-unit>
+<trans-unit id="205">
+<source> csrf token</source>
+<target> csrf token</target>
+</trans-unit>
+<trans-unit id="206">
+<source>CSRF attack detected.</source>
+<target>CSRF attack detected.</target>
+</trans-unit>
+<trans-unit id="207">
+<source>Group</source>
+<target>Group</target>
+</trans-unit>
+<trans-unit id="208">
+<source>User</source>
+<target>User</target>
+</trans-unit>
+<trans-unit id="209">
+<source>Service</source>
+<target>Service</target>
+</trans-unit>
+<trans-unit id="210">
+<source>Type</source>
+<target>Type</target>
+</trans-unit>
+<trans-unit id="211">
+<source>Service url</source>
+<target>Service url</target>
+</trans-unit>
+<trans-unit id="212">
+<source>Format</source>
+<target>Format</target>
+</trans-unit>
+<trans-unit id="213">
+<source>Width</source>
+<target>Width</target>
+</trans-unit>
+<trans-unit id="214">
+<source>&quot;%value%&quot; is not an integer.</source>
+<target>&quot;%value%&quot; is not an integer.</target>
+</trans-unit>
+<trans-unit id="215">
+<source>&quot;%value%&quot; must be at most %max%.</source>
+<target>&quot;%value%&quot; must be at most %max%.</target>
+</trans-unit>
+<trans-unit id="216">
+<source>&quot;%value%&quot; must be at least %min%.</source>
+<target>&quot;%value%&quot; must be at least %min%.</target>
+</trans-unit>
+<trans-unit id="217">
+<source>Height</source>
+<target>Height</target>
+</trans-unit>
+<trans-unit id="218">
+<source>Embed</source>
+<target>Embed</target>
+</trans-unit>
+<trans-unit id="219">
+<source>You must provide a title.</source>
+<target>You must provide a title.</target>
+</trans-unit>
+<trans-unit id="220">
+<source>Title must be &lt;200 characters.</source>
+<target>Title must be &lt;200 characters.</target>
+</trans-unit>
+<trans-unit id="221">
+<source>Title must be at least 3 characters.</source>
+<target>Title must be at least 3 characters.</target>
+</trans-unit>
+<trans-unit id="222">
+<source>Credit</source>
+<target>Credit</target>
+</trans-unit>
+<trans-unit id="223">
+<source>Permissions</source>
+<target>Permissions</target>
+</trans-unit>
+<trans-unit id="224">
+<source>Slug</source>
+<target>Slug</target>
+</trans-unit>
+<trans-unit id="225">
+<source>Categories list add</source>
+<target>Categories list add</target>
+</trans-unit>
+<trans-unit id="226">
+<source>Template</source>
+<target>Template</target>
+</trans-unit>
+<trans-unit id="227">
+<source>View is secure</source>
+<target>View is secure</target>
+</trans-unit>
+<trans-unit id="228">
+<source>View guest</source>
+<target>View guest</target>
+</trans-unit>
+<trans-unit id="229">
+<source>Edit admin lock</source>
+<target>Edit admin lock</target>
+</trans-unit>
+<trans-unit id="230">
+<source>View admin lock</source>
+<target>View admin lock</target>
+</trans-unit>
+<trans-unit id="231">
+<source>Published at</source>
+<target>Published at</target>
+</trans-unit>
+<trans-unit id="232">
+<source>&quot;%value%&quot; does not match the date format (%date_format%).</source>
+<target>&quot;%value%&quot; does not match the date format (%date_format%).</target>
+</trans-unit>
+<trans-unit id="233">
+<source>The date must be before %max%.</source>
+<target>The date must be before %max%.</target>
+</trans-unit>
+<trans-unit id="234">
+<source>The date must be after %min%.</source>
+<target>The date must be after %min%.</target>
+</trans-unit>
+<trans-unit id="235">
+<source>Archived</source>
+<target>Archived</target>
+</trans-unit>
+<trans-unit id="236">
+<source>Admin</source>
+<target>Admin</target>
+</trans-unit>
+<trans-unit id="237">
+<source>Deleter</source>
+<target>Deleter</target>
+</trans-unit>
+<trans-unit id="238">
+<source>Engine</source>
+<target>Engine</target>
+</trans-unit>
+<trans-unit id="239">
+<source>Lft</source>
+<target>Lft</target>
+</trans-unit>
+<trans-unit id="240">
+<source>Rgt</source>
+<target>Rgt</target>
+</trans-unit>
+<trans-unit id="241">
+<source>Level</source>
+<target>Level</target>
+</trans-unit>
+<trans-unit id="242">
+<source>Categories list</source>
+<target>Categories list</target>
+</trans-unit>
+<trans-unit id="243">
+<source>Page</source>
+<target>Page</target>
+</trans-unit>
+<trans-unit id="244">
+<source>Text</source>
+<target>Text</target>
+</trans-unit>
+<trans-unit id="245">
+<source>Your field contains unsupported HTML tags.</source>
+<target>Your field contains unsupported HTML tags.</target>
+</trans-unit>
+<trans-unit id="246">
+<source>Url</source>
+<target>Url</target>
+</trans-unit>
+<trans-unit id="247">
+<source>Content Categories</source>
+<target>Content Categories</target>
+</trans-unit>
+<trans-unit id="248">
+<source>RSS Feed URL</source>
+<target>RSS Feed URL</target>
+</trans-unit>
+<trans-unit id="249">
+<source>Language</source>
+<target>Language</target>
+</trans-unit>
+<trans-unit id="250">
+<source>Search</source>
+<target>Search</target>
+</trans-unit>
+<trans-unit id="251">
+<source>Select a new file</source>
+<target>Select a new file</target>
+</trans-unit>
+<trans-unit id="252">
+<source>File is too large (maximum is %max_size% bytes).</source>
+<target>File is too large (maximum is %max_size% bytes).</target>
+</trans-unit>
+<trans-unit id="253">
+<source>The following file types are accepted: gif, png, jpg, pdf, mp3, xls, ppt, doc, pptx, sldx, ppsx, potx, xlsx, xltx, docx, dotx, txt, rtf</source>
+<target>The following file types are accepted: gif, png, jpg, pdf, mp3, xls, ppt, doc, pptx, sldx, ppsx, potx, xlsx, xltx, docx, dotx, txt, rtf</target>
+</trans-unit>
+<trans-unit id="254">
+<source>The uploaded file was only partially uploaded.</source>
+<target>The uploaded file was only partially uploaded.</target>
+</trans-unit>
+<trans-unit id="255">
+<source>Missing a temporary folder.</source>
+<target>Missing a temporary folder.</target>
+</trans-unit>
+<trans-unit id="256">
+<source>Failed to write file to disk.</source>
+<target>Failed to write file to disk.</target>
+</trans-unit>
+<trans-unit id="257">
+<source>File upload stopped by extension.</source>
+<target>File upload stopped by extension.</target>
+</trans-unit>
+<trans-unit id="258">
+<source>Item-1</source>
+<target>Item-1</target>
+</trans-unit>
+<trans-unit id="259">
+<source>Unexpected extra form field named &quot;%field%&quot;.</source>
+<target>Unexpected extra form field named &quot;%field%&quot;.</target>
+</trans-unit>
+<trans-unit id="260">
+<source>The form submission cannot be processed. It probably means that you have uploaded a file that is too big.</source>
+<target>The form submission cannot be processed. It probably means that you have uploaded a file that is too big.</target>
+</trans-unit>
+<trans-unit id="261">
+<source>File</source>
+<target>File</target>
+</trans-unit>
+<trans-unit id="262">
+<source>Only JPEG, PNG and GIF-format images are accepted.</source>
+<target>Only JPEG, PNG and GIF-format images are accepted.</target>
+</trans-unit>
+<trans-unit id="263">
+<source>Item-0</source>
+<target>Item-0</target>
+</trans-unit>
+<trans-unit id="264">
+<source>Item-2</source>
+<target>Item-2</target>
+</trans-unit>
+<trans-unit id="265">
+<source>Item-3</source>
+<target>Item-3</target>
+</trans-unit>
+<trans-unit id="266">
+<source>Item-4</source>
+<target>Item-4</target>
+</trans-unit>
+<trans-unit id="267">
+<source>Item-5</source>
+<target>Item-5</target>
+</trans-unit>
+<trans-unit id="268">
+<source>Embed Code or URL</source>
+<target>Embed Code or URL</target>
+</trans-unit>
+<trans-unit id="269">
+<source>Choose Thumbnail</source>
+<target>Choose Thumbnail</target>
+</trans-unit>
+<trans-unit id="270">
+<source>Select a JPEG, PNG or GIF file as a thumbnail</source>
+<target>Select a JPEG, PNG or GIF file as a thumbnail</target>
+</trans-unit>
+<trans-unit id="271">
+<source>JPEG, PNG and GIF only.</source>
+<target>JPEG, PNG and GIF only.</target>
+</trans-unit>
+<trans-unit id="272">
+<source>The permalink cannot be empty.</source>
+<target>The permalink cannot be empty.</target>
+</trans-unit>
+<trans-unit id="273">
+<source>The permalink must contain only slashes, letters, digits, dashes and underscores. There must be a leading slash. Also, you cannot change a permalink to conflict with an existing permalink.</source>
+<target>The permalink must contain only slashes, letters, digits, dashes and underscores. There must be a leading slash. Also, you cannot change a permalink to conflict with an existing permalink.</target>
+</trans-unit>
+<trans-unit id="274">
+<source>View options</source>
+<target>View options</target>
+</trans-unit>
+<trans-unit id="275">
+<source>View individuals</source>
+<target>View individuals</target>
+</trans-unit>
+<trans-unit id="276">
+<source>View groups</source>
+<target>View groups</target>
+</trans-unit>
+<trans-unit id="277">
+<source>Joinedtemplate</source>
+<target>Joinedtemplate</target>
+</trans-unit>
+<trans-unit id="278">
+<source>Real meta description</source>
+<target>Real meta description</target>
+</trans-unit>
+<trans-unit id="279">
+<source>Edit individuals</source>
+<target>Edit individuals</target>
+</trans-unit>
+<trans-unit id="280">
+<source>Edit groups</source>
+<target>Edit groups</target>
+</trans-unit>
+<trans-unit id="281">
+<source>Realtitle</source>
+<target>Realtitle</target>
+</trans-unit>
+<trans-unit id="282">
+<source>The title cannot be empty.</source>
+<target>The title cannot be empty.</target>
+</trans-unit>
+<trans-unit id="283">
+<source>Value</source>
+<target>Value</target>
+</trans-unit>
+<trans-unit id="284">
+<source>Count</source>
+<target>Count</target>
+</trans-unit>
+<trans-unit id="285">
+<source>&quot;%value%&quot; is not a number.</source>
+<target>&quot;%value%&quot; is not a number.</target>
+</trans-unit>
+<trans-unit id="286">
+<source>Tags list</source>
+<target>Tags list</target>
+</trans-unit>
+<trans-unit id="287">
+<source>Email address</source>
+<target>Email address</target>
+</trans-unit>
+<trans-unit id="288">
+<source>Password</source>
+<target>Password</target>
+</trans-unit>
+<trans-unit id="289">
+<source>Password again</source>
+<target>Password again</target>
+</trans-unit>
+<trans-unit id="290">
+<source>Is active</source>
+<target>Is active</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

@@ -1,0 +1,184 @@
+options:
+  type: INNODB
+
+aBlogItem:
+  actAs:
+    Timestampable: ~
+    Taggable: ~
+    # The sluggable behavior seems to have trouble with inheritance (?) when
+    # asked to uniqueify something, and we have our own implementation worked out
+    # Do NOT invoke the Sluggable behavior here.
+  columns:
+    id:
+      type: integer
+      primary: true
+      autoincrement: true
+    author_id:
+      type: integer
+    page_id:
+      type: integer
+    title:
+      type: string(255)
+      notnull: true
+    slug:
+      type: varchar(255)
+      notnull: true
+    slug_saved:
+      type: boolean
+      default: false
+    excerpt:
+      type: string
+    status:
+      type: enum
+      values: [draft, pending review, published ]
+      notnull: true
+      default: draft
+    allow_comments:
+      type: boolean
+      notnull: true
+      default: 0
+    template:
+      type: string(255)
+      default: singleColumnTemplate
+    published_at:
+      type: timestamp
+  relations:
+    Author:
+      class: sfGuardUser
+      foreignAlias: BlogAuthorItems
+      local: author_id
+      foreign: id
+      onDelete: SET NULL
+    Editors:
+      foreignAlias: BlogEditorItems
+      class: sfGuardUser
+      refClass: aBlogEditor
+      local: blog_item_id
+      foreign: user_id
+    Page:
+      class: aPage
+      local: page_id
+      foreign: id
+      onDelete: CASCADE
+    Categories:
+      foreignAlias: BlogItems
+      class: aCategory
+      refClass: aBlogItemToCategory
+      local: blog_item_id
+      foreign: category_id
+      
+aBlogEditor:
+  columns:
+    blog_item_id: 
+      type: integer
+      primary: true
+    user_id:
+      type: integer
+      primary: true
+  relations:
+    BlogItem:
+      foreignAlias: BlogItemEditors
+      class: aBlogItem
+      local: blog_item_id
+      onDelete: CASCADE
+    Editor:
+      foreignAlias: BlogItemEditors
+      class: sfGuardUser
+      local: user_id
+      onDelete: CASCADE
+      
+aBlogItemToCategory:
+  columns:
+    blog_item_id:
+      type: integer
+      primary: true
+    category_id:
+      type: integer
+      primary: true
+  relations:
+    BlogItem:
+      foreignAlias: BlogItemCategories
+      class: aBlogItem
+      local: blog_item_id
+      onDelete: CASCADE
+    Category:
+      foreignAlias: BlogItemCategories
+      class: aCategory
+      local: category_id
+      onDelete: CASCADE
+
+# Extend with more relations.
+# This plugin must now be loaded AFTER
+# the main apostrophePlugin
+aCategory:
+  relations:
+    BlogItems:
+      foreignAlias: BlogCategories
+      class: aBlogItem
+      refClass: aBlogItemToCategory
+      local: category_id
+      foreign: blog_item_id
+          
+aBlogPost:
+  inheritance:
+    extends: aBlogItem
+    type: column_aggregation
+    keyField: type
+    keyValue: 'post'    
+      
+aBlogSlot:
+  options:
+    symfony:
+      form:   false
+      filter: false
+  inheritance:
+    extends: aSlot
+    type: column_aggregation
+    keyField: type
+    keyValue: 'aBlog'
+      
+aBlogSingleSlot:
+  options:
+    symfony:
+      form:   false
+      filter: false
+  inheritance:
+    extends: aSlot
+    type: column_aggregation
+    keyField: type
+    keyValue: 'aBlogSingle'
+    
+aEvent:
+  inheritance:
+    extends: aBlogItem
+    type: column_aggregation
+    keyField: type
+    keyValue: 'event'
+  columns:
+    start_date: date
+    start_time: time
+    end_date: date
+    end_time: time
+    location: string(300)
+    
+aEventSlot:
+  options:
+    symfony:
+      form:   false
+      filter: false
+  inheritance:
+    extends: aSlot
+    type: column_aggregation
+    keyField: type
+    keyValue: 'aEvent'
+      
+aEventSingleSlot:
+  options:
+    symfony:
+      form:   false
+      filter: false
+  inheritance:
+    extends: aSlot
+    type: column_aggregation
+    keyField: type
+    keyValue: 'aEventSingle'

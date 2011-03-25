@@ -1,0 +1,180 @@
+# default values
+all:
+  a:
+    # includes a.css into the project
+    use_bundled_stylesheet: true
+    
+    # default button order for P'unk Projects
+    global_button_order:
+      - blog
+      - events
+      - media
+      - users 
+      - reorganize
+    # If true, there will be a language switcher next to the login/logout button
+    i18n_switch: true
+    i18n_languages: [en, fr, de, es, ru]
+    # By default new slots in an area go to the top, you can change that here
+    # new_slots_top: false
+    routes_register: false 
+    default_on: true
+    pretty_english_dates: true
+
+    # Make sure you specify the candidate and sufficient groups for both managing
+    # (that is, deleting and creating) and editing pages. It's typical to use the same
+    # group of candidates for editors and managers, because you can still assign actual
+    # managing and editing privileges for any individual page and its descendants via the
+    # page settings dialog even if the pool of candidates is all one group
+    manage_candidate_group: editor
+    manage_sufficient_group: admin
+    edit_candidate_group: editor
+    edit_sufficient_group: admin
+    # Permission to view locked pages. In our recommended fixtures,
+    # the guest, editor and admin groups have this. Users that have no
+    # group membership do not. If you want to give people "off the street" accounts,
+    # this is a useful way to avoid giving them access to locked pages until they
+    # are deemed worthy of membership in the guest group. If you comment out
+    # this line, any authenticated user will be able to view locked pages
+    view_locked_sufficient_credentials: view_locked
+    
+    # Sets the level of CMS Pages allowed to be created by the client 
+    # (e.g. page_level: 1 means the site can only have pages that are 
+    # peers to the homepage peers A.K.A. top navigation pages)
+    # max_page_levels: 3  
+
+    # Maximum number of child pages allowed to be created at any given level
+    # max_children_per_page: 8 
+    
+    # Message displayed next to button if client tries to click
+    # max_page_limit_message: Cannot create a child page here.
+    
+    addslot_button_style: big
+    history_button_style: no-label big
+    delete_button_style: no-label
+    
+    slot_types:
+      aBlog: Blog Posts
+      aBlogSingle: Blog Post
+      aEvent: Events
+      aEventSingle: Event
+
+      # The following slot types are always enabled (meaning only that you can include them in
+      # individual templates if you wish, so you still have control over what your end users do):
+      #
+      # aRichText
+      # aText
+      # aImage
+      # aSlideshow
+      # aButton
+      # aVideo
+      # aPDF
+      # aRawHTML
+      #
+      # You can enable additional slot types implemented at the application level or via
+      # plugins by adding their type names here along with a short descriptive label.
+      # 
+      # Example:
+      #
+      # baseball: "Baseball Box Score"
+      #
+      # (This assumes you have implemented such a slot type of course.)
+      
+    slot_variants:
+      # This works, but it's confusing if you don't have a clear need for it, so let's not force a demo of it on folks
+      # aBlog:
+      #   normal:
+      #     label: Normal
+      #   imageOnly:
+      #     label: Image Preview
+      #     options:
+      #       force_template: imagePreviewTemplate
+      #       full: true
+      aButton:
+        normal:
+          label: Normal
+        useTitleAsButtonText:
+          label: Text Over
+      aSlideshow:
+        normal:
+          label: Normal
+          options:
+            interval: 0
+            title: false
+            arrows: true
+        compact:
+          label: Compact
+          options:
+            interval: 0
+            title: true
+            arrows: true
+            itemTemplate: slideshowItemCompact
+        autoplay:
+          label: Auto Play
+          options:
+            interval: 4
+            title: true
+            arrows: false         
+            itemTemplate: slideshowItemCompact            
+            
+    home_as_tab: false
+
+    templates:
+      home: Home Page
+      default: Default Page
+    # We're using it as the sitewide layout instead (see view.yml)
+    use_bundled_layout: false   
+    engines:
+      '': 'Template-Based'
+      aBlog: Blog
+      aEvent: Events
+      aMedia: Media
+
+  aAdmin:
+    web_dir: /apostrophePlugin
+
+  aMedia:
+    # If not set, the same site is assumed
+    # client_site: "http://www.mymediasite.com/"
+    # You should change this both here and below
+    client_apikey: 'dummy'
+    apikeys:
+      - 'dummy'
+    apipublic: false
+    admin_credential: media_admin
+    upload_credential: media_upload
+    use_bundled_layout: false
+    embed_codes: true        
+    
+  aToolkit:
+    indexes:
+      - 'aPage'
+      - 'aMediaItem'
+        
+  # options for sfSyncContentPlugin, used to sync the database and also
+  # data files such as the media plugin's images and the search indexes. 
+  # You can extend this if you have more data file folders
+  
+  sfSyncContent:
+    # The database is content, of course, but what else?
+    content:
+      # Almost always
+      - "web/uploads"
+      # If you use P'unk Avenue stuff
+      - "data/a_writable"
+        
+  # For us this is the right place to find the netpbm utilities and ghostscript 
+  # (pnmtopng, gs, etc). Change it if your environment differs. Note that the
+  # default PATH is still searched too, so on most production servers you can 
+  # leave this setting alone and not break it out separately for prod
+      
+  aimageconverter:
+    path: /opt/local/bin
+    # To force use of gd shut off netpbm
+    # netpbm: false
+    
+  # You need to set this to your site's hostname to use a:refresh to update
+  # URLs in media slots etc
+  
+#  cli:
+#    host: cmstest14
+    

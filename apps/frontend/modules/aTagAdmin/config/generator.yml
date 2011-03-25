@@ -1,0 +1,51 @@
+generator:
+  class: aTagAdminGenerator
+  param:
+    model_class:           Tag
+    theme:                 aAdmin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          a_tag_admin
+    with_doctrine_route:   1
+
+
+    config:
+
+      list:
+        title: Tags Admin
+        display: [ =name, tag_aBlogPost, tag_aEvent, tag_aMediaItem, tag_aPage ]
+        fields:
+          name:
+            label: Tag
+          tag_aBlogPost:
+            label: Blog
+          tab_aEvent:
+            label: aEvent
+          tag_aPage:
+            label: Pages
+          tag_aMediaItem:
+            label: Media
+          tag_aEvent:
+            label: Events
+        object_actions: []
+        actions:
+          new:
+            label: <span class="icon"></span> New Tag
+            action: new
+            params:
+              class: a-btn big icon a-add
+
+      form: 
+        class: aTagForm
+        
+      filter:
+        class: false
+
+      edit:
+        title: Edit Tag
+
+      new:
+        title: New Tag
+        

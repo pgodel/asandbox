@@ -1,0 +1,1247 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+<file original="apostrophe" source-language="en_US" datatype="plaintext">
+<body>
+<trans-unit id="1">
+<source>Click edit to add text.</source>
+<target>Klik bewerken om tekst toe te voegen.</target>
+</trans-unit>
+<trans-unit id="2">
+<source>Choose images</source>
+<target>Beelden kiezen</target>
+</trans-unit>
+<trans-unit id="3">
+<source>Create a Slideshow</source>
+<target>Diavoorstelling Maken</target>
+</trans-unit>
+<trans-unit id="4">
+<source>Photo Credit: %credit%</source>
+<target>Foto Credit: %credit%</target>
+</trans-unit>
+<trans-unit id="5">
+<source>Previous</source>
+<target>Vorige</target>
+</trans-unit>
+<trans-unit id="6">
+<source>Next</source>
+<target>Volgende</target>
+</trans-unit>
+<trans-unit id="7">
+<source>Click For Next Image</source>
+<target>Klik Voor Volgend Beeld</target>
+</trans-unit>
+<trans-unit id="8">
+<source>Choose image</source>
+<target>Beeld Kiezen</target>
+</trans-unit>
+<trans-unit id="9">
+<source>Select an Image</source>
+<target>Beeld Selecteren</target>
+</trans-unit>
+<trans-unit id="10">
+<source>Select to Add</source>
+<target>Selecteer om Toe Te Voegen</target>
+</trans-unit>
+<trans-unit id="11">
+<source>Clear Search</source>
+<target>Zoekterm Wissen</target>
+</trans-unit>
+<trans-unit id="12">
+<source>Click to Search</source>
+<target>Klik om te Zoeken</target>
+</trans-unit>
+<trans-unit id="13">
+<source>Search</source>
+<target>Zoeken</target>
+</trans-unit>
+<trans-unit id="14">
+<source>Submit</source>
+<target>Verzenden</target>
+</trans-unit>
+<trans-unit id="15">
+<source>Media Types</source>
+<target>Mediatypes</target>
+</trans-unit>
+<trans-unit id="16">
+<source>Categories</source>
+<target>Categorieën</target>
+</trans-unit>
+<trans-unit id="20">
+<source>Selected Tag</source>
+<target>Geselecteerde Tag</target>
+</trans-unit>
+<trans-unit id="21">
+<source>Popular Tags</source>
+<target>Meest bekeken Tags</target>
+</trans-unit>
+<trans-unit id="22">
+<source>All Tags</source>
+<target>Alle Tags</target>
+</trans-unit>
+<trans-unit id="23">
+<source>add</source>
+<target>Toevoegen</target>
+</trans-unit>
+<trans-unit id="24">
+<source>Cancel</source>
+<target>Annuleren</target>
+</trans-unit>
+<trans-unit id="25">
+<source>New Category</source>
+<target>Nieuwe Categorie</target>
+</trans-unit>
+<trans-unit id="26">
+<source>Remove</source>
+<target>Verwijderen</target>
+</trans-unit>
+<trans-unit id="27">
+<source>, </source>
+<target>,</target>
+</trans-unit>
+<trans-unit id="28">
+<source>&lt;span&gt;Original Dimensions:&lt;/span&gt; %width%x%height%</source>
+<target>&lt;span&gt;Originele afmetingen:&lt;/span&gt; %width%x%height%</target>
+</trans-unit>
+<trans-unit id="29">
+<source>&lt;span&gt;Uploaded:&lt;/span&gt; %date%</source>
+<target>&lt;span&gt;Toegevoegd:&lt;/span&gt; %date%</target>
+</trans-unit>
+<trans-unit id="30">
+<source>&lt;span&gt;Credit:&lt;/span&gt; %credit%</source>
+<target>&lt;span&gt;Credit:&lt;/span&gt; %credit%</target>
+</trans-unit>
+<trans-unit id="31">
+<source>&lt;span&gt;Categories:&lt;/span&gt; %categories%</source>
+<target>&lt;span&gt;Categorieën:&lt;/span&gt; %categories%</target>
+</trans-unit>
+<trans-unit id="32">
+<source>&lt;span&gt;Tags:&lt;/span&gt; %tags%</source>
+<target>&lt;span&gt;Tags:&lt;/span&gt; %tags%</target>
+</trans-unit>
+<trans-unit id="33">
+<source>&lt;span&gt;URL:&lt;/span&gt; %urlfield%</source>
+<target>&lt;span&gt;URL:&lt;/span&gt; %urlfield%</target>
+</trans-unit>
+<trans-unit id="34">
+<source>Go</source>
+<target>Start</target>
+</trans-unit>
+<trans-unit id="35">
+<source>No matching videos were found. Try being less specific.</source>
+<target>Geen video's gevonden.  Probeer een bredere zoekterm.</target>
+</trans-unit>
+<trans-unit id="36">
+<source>Select%buttonspan%</source>
+<target>Selecteer%buttonspan%</target>
+</trans-unit>
+<trans-unit id="37">
+<source>Editing Video: %title%</source>
+<target>Bewerk Video: %title%</target>
+</trans-unit>
+<trans-unit id="38">
+<source>Add Video</source>
+<target>Video Toevoegen</target>
+</trans-unit>
+<trans-unit id="39">
+<source>That is not a valid YouTube video URL.</source>
+<target>Dat is geen geldig YouTube video URL.</target>
+</trans-unit>
+<trans-unit id="40">
+<source>Tags should be separated by commas. Example: student life, chemistry, laboratory</source>
+<target>Tags moeten gescheiden worden door komma's. Voorbeeld: studenten, scheikunde, laboratorium</target>
+</trans-unit>
+<trans-unit id="41">
+<source>Save</source>
+<target>Opslaan</target>
+</trans-unit>
+<trans-unit id="42">
+<source>Delete</source>
+<target>Verwijderen</target>
+</trans-unit>
+<trans-unit id="43">
+<source>Are you sure you want to delete this item?</source>
+<target>Bent u zeker dat u dit item wenst te verwijderen?</target>
+</trans-unit>
+<trans-unit id="44">
+<source>Search YouTube</source>
+<target>Zoeken op YouTube</target>
+</trans-unit>
+<trans-unit id="45">
+<source>Add by YouTube URL</source>
+<target>Toevoegen via YouTube URL</target>
+</trans-unit>
+<trans-unit id="46">
+<source>Add by Embed Code</source>
+<target>Toevoegen via Embed Code</target>
+</trans-unit>
+<trans-unit id="47">
+<source>Add by URL</source>
+<target>Toevoegen via URL</target>
+</trans-unit>
+<trans-unit id="48">
+<source>Example: http://www.youtube.com/watch?v=EwTZ2xpQwpA</source>
+<target>Voorbeeld: http://www.youtube.com/watch?v=EwTZ2xpQwpA</target>
+</trans-unit>
+<trans-unit id="49">
+<source>Example: %embed%</source>
+<target>Voorbeeld: %embed%</target>
+</trans-unit>
+<trans-unit id="50">
+<source>Editing PDF: %title%</source>
+<target>Bewerk PDF: %title%</target>
+</trans-unit>
+<trans-unit id="51">
+<source>Add PDF</source>
+<target>PDF Toevoegen</target>
+</trans-unit>
+<trans-unit id="52">
+<source>That is not a valid PDF.</source>
+<target>Dat is geen geldige PDF</target>
+</trans-unit>
+<trans-unit id="53">
+<source>remove this item</source>
+<target>dit item verwijderen</target>
+</trans-unit>
+<trans-unit id="54">
+<source>Drag &amp;amp; Drop to Order</source>
+<target>Drag &amp;amp; Drop om te Sorteren</target>
+</trans-unit>
+<trans-unit id="55">
+<source>cancel</source>
+<target>annuleren</target>
+</trans-unit>
+<trans-unit id="56">
+<source>Add Images</source>
+<target>Beelden Toevoegen</target>
+</trans-unit>
+<trans-unit id="57">
+<source>Media Library</source>
+<target>Mediabibliotheek</target>
+</trans-unit>
+<trans-unit id="58">
+<source>Original Dimensions:</source>
+<target>Orgineel Formaat:</target>
+</trans-unit>
+<trans-unit id="59">
+<source>%width%x%height%</source>
+<target>%width%x%height%</target>
+</trans-unit>
+<trans-unit id="60">
+<source>Uploaded:</source>
+<target>Toegevoegd:</target>
+</trans-unit>
+<trans-unit id="61">
+<source>Credit:</source>
+<target>Credit:</target>
+</trans-unit>
+<trans-unit id="62">
+<source>Categories:</source>
+<target>Categorieën:</target>
+</trans-unit>
+<trans-unit id="63">
+<source>Tags:</source>
+<target>Tags:</target>
+</trans-unit>
+<trans-unit id="64">
+<source>Download Original%buttonspan%</source>
+<target>Origineel Downloaden%buttonspan%</target>
+</trans-unit>
+<trans-unit id="65">
+<source>Select one or more %typeplural% by clicking on them below. Drag and drop %typeplural%  to reorder them within the list of selected items. Remove %typeplural% by clicking on the trashcan.</source>
+<target>Selecteer één of meerdere %typeplural% door er hieronder op te klikken. Drag and drop %typeplural% om ze binnen de selectie te sorteren. Verwijderen %typeplural% door te klikken op de prullebak.</target>
+</trans-unit>
+<trans-unit id="66">
+<source>Only appropriately sized %typeplural% are shown.</source>
+<target>Enkel %typeplural% met correcte afmetingen worden weergegeven.</target>
+</trans-unit>
+<trans-unit id="67">
+<source>When you're done, click &quot;Save.&quot;</source>
+<target>Wanneer u klaar bent, klik &quot;Opslaan.&quot;</target>
+</trans-unit>
+<trans-unit id="68">
+<source>Upload Images</source>
+<target>Beelden uploaden</target>
+</trans-unit>
+<trans-unit id="69">
+<source>Add Another Photo</source>
+<target>Extra Foto Toevoegen</target>
+</trans-unit>
+<trans-unit id="70">
+<source>You are editing: %title%</source>
+<target>U bewerkt: %title%</target>
+</trans-unit>
+<trans-unit id="72">
+<source>Hidden Photos can be used in photo slots, but are not displayed in the Media section.</source>
+<target>Verborgen Foto's kunnen in fotoslots gebruikt worden maar worden niet weergegeven in de Media sectie.</target>
+</trans-unit>
+<trans-unit id="73">
+<source>Use the browsing and searching features to locate the %type% you want, then click on that %type% to select it.</source>
+<target>Gebruik de blader- en zoekfuncties om het/de gewenste %type% te vinden, klik er daarna op om het te selecteren.</target>
+</trans-unit>
+<trans-unit id="74">
+<source>Edit</source>
+<target>Bewerken</target>
+</trans-unit>
+<trans-unit id="75">
+<source>Download Original</source>
+<target>Origineel Downloaden</target>
+</trans-unit>
+<trans-unit id="76">
+<source>Annotate Images</source>
+<target>Beelden Annoteren</target>
+</trans-unit>
+<trans-unit id="77">
+<source>Save Images</source>
+<target>Beelden Opslaan</target>
+</trans-unit>
+<trans-unit id="78">
+<source>A %w%x%h% aspect ratio</source>
+<target>Verhouding van %w%x%h%</target>
+</trans-unit>
+<trans-unit id="79">
+<source>A minimum width of %mw% pixels</source>
+<target>Een minimum breedte van %mw% pixels</target>
+</trans-unit>
+<trans-unit id="80">
+<source>A minimum height of %mh% pixels</source>
+<target>Een minimum hoogte van %mw% pixels</target>
+</trans-unit>
+<trans-unit id="81">
+<source>A width of exactly %w% pixels</source>
+<target>Een breedte van exact %mw% pixels</target>
+</trans-unit>
+<trans-unit id="82">
+<source>A height of exactly %h% pixels</source>
+<target>Een hoogte van exact %h% pixels</target>
+</trans-unit>
+<trans-unit id="83">
+<source>items</source>
+<target>items</target>
+</trans-unit>
+<trans-unit id="84">
+<source>Displaying only %t% with:</source>
+<target>Weergegeven types: %t%</target>
+</trans-unit>
+<trans-unit id="85">
+<source>User Dashboard</source>
+<target>Overzicht Gebruikers</target>
+</trans-unit>
+<trans-unit id="86">
+<source>Add User</source>
+<target>Gebruiker Toevoegen</target>
+</trans-unit>
+<trans-unit id="87">
+<source>Group Dashboard</source>
+<target>Overzicht Groepen</target>
+</trans-unit>
+<trans-unit id="88">
+<source>Add Group</source>
+<target>Groep Toevoegen</target>
+</trans-unit>
+<trans-unit id="89">
+<source>Permissions Dashboard</source>
+<target>Overzicht Permissies</target>
+</trans-unit>
+<trans-unit id="90">
+<source>Add Permission</source>
+<target>Permissie Toevoegen</target>
+</trans-unit>
+<trans-unit id="91">
+<source>Use this slot to add raw HTML markup, such as embed codes.</source>
+<target>Gebruik dit slot om HTML code zoals embed codes toe te voegen.</target>
+</trans-unit>
+<trans-unit id="92">
+<source>Use this slot with caution. If bad markup causes the page to become uneditable, add ?safemode=1 to the URL and edit the slot to correct the markup.</source>
+<target>Opgelet bij het gebruik van dit slot.  Indien de pagina onbewerkbaar blijkt door gebruik van slechte code, voeg dan ?safemode=1 toe aan de URL en corrigeer de code.</target>
+</trans-unit>
+<trans-unit id="93">
+<source>Click edit to add raw HTML markup, such as embed codes.</source>
+<target>Klik bewerken om HTML code zoals embed codes toe te voegen.</target>
+</trans-unit>
+<trans-unit id="94">
+<source>First Page</source>
+<target>Eerste Pagina</target>
+</trans-unit>
+<trans-unit id="95">
+<source>Previous Page</source>
+<target>Vorige Pagina</target>
+</trans-unit>
+<trans-unit id="96">
+<source>Next Page</source>
+<target>Volgende Pagina</target>
+</trans-unit>
+<trans-unit id="97">
+<source>Last Page</source>
+<target>Laatste Pagina</target>
+</trans-unit>
+<trans-unit id="98">
+<source>Choose Video</source>
+<target>Video Selecteren</target>
+</trans-unit>
+<trans-unit id="99">
+<source>Select a Video</source>
+<target>Selecteer een Video</target>
+</trans-unit>
+<trans-unit id="100">
+<source>Invalid URL. A valid example: http://www.punkave.com/</source>
+<target>Ongeldige URL.  Correct voorbeeld: http://www.punkave.com</target>
+</trans-unit>
+<trans-unit id="101">
+<source>URL: %r%</source>
+<target>URL: %r%</target>
+</trans-unit>
+<trans-unit id="102">
+<source>Title: %t%</source>
+<target>Titel: %t%</target>
+</trans-unit>
+<trans-unit id="103">
+<source>sign in</source>
+<target>aanmelden</target>
+</trans-unit>
+<trans-unit id="104">
+<source>Options</source>
+<target>Opties</target>
+</trans-unit>
+<trans-unit id="105">
+<source>Hide &quot;Off&quot; Pages</source>
+<target>&quot;Off&quot; Pagina's Verbergen</target>
+</trans-unit>
+<trans-unit id="106">
+<source>Show &quot;Off&quot; Pages</source>
+<target>&quot;Off&quot; Pagina's Weergeven</target>
+</trans-unit>
+<trans-unit id="107">
+<source>Error 404 &amp;mdash; The page you are looking for could not be found.</source>
+<target>404-fout &amp;mdash; De gevraagde pagina kon niet worden gevonden.</target>
+</trans-unit>
+<trans-unit id="108">
+<source>Go Home.</source>
+<target>Ga naar Home</target>
+</trans-unit>
+<trans-unit id="109">
+<source>You are browsing past revisions for this area.</source>
+<target>U bladert door oude versies van deze zone.</target>
+</trans-unit>
+<trans-unit id="110">
+<source>Choose a revision.</source>
+<target>Kies een versie.</target>
+</trans-unit>
+<trans-unit id="111">
+<source>ID</source>
+<target>ID</target>
+</trans-unit>
+<trans-unit id="112">
+<source>Date</source>
+<target>Datum</target>
+</trans-unit>
+<trans-unit id="113">
+<source>Editor</source>
+<target>Auteur</target>
+</trans-unit>
+<trans-unit id="114">
+<source>Preview</source>
+<target>Voorbeeld</target>
+</trans-unit>
+<trans-unit id="115">
+<source>View More Revisions</source>
+<target>Meer Versies Weergeven</target>
+</trans-unit>
+<trans-unit id="116">
+<source>You are previewing another version of this material. This will not become the current version unless you click &quot;Save As Current Revision.&quot; If you change your mind, click &quot;Cancel.&quot;</source>
+<target>U bekijkt een andere versie van dit element.  Deze wordt enkel de huidige versie indien u klikt op &quot;Opslaan als Huidige Versie.&quot;.  Indien u dit niet wenst, klik &quot;Annuleren&quot;.</target>
+</trans-unit>
+<trans-unit id="117">
+<source>Double-click to edit.</source>
+<target>Dubbelklik om te bewerken.</target>
+</trans-unit>
+<trans-unit id="118">
+<source>User Preferences for %name%</source>
+<target>Voorkeuren voor %name%</target>
+</trans-unit>
+<trans-unit id="119">
+<source>Save Changes</source>
+<target>Wijzigingen Opslaan</target>
+</trans-unit>
+<trans-unit id="120">
+<source>History</source>
+<target>Geschiedenis</target>
+</trans-unit>
+<trans-unit id="121">
+<source>Save as Current Revision</source>
+<target>Opslaan als Huidige Versie</target>
+</trans-unit>
+<trans-unit id="122">
+<source>Add Slot</source>
+<target>Slot Toevoegen</target>
+</trans-unit>
+<trans-unit id="123">
+<source>Move</source>
+<target>Verplaatsen</target>
+</trans-unit>
+<trans-unit id="124">
+<source>Move Up</source>
+<target>Omhoog</target>
+</trans-unit>
+<trans-unit id="125">
+<source>Move Down</source>
+<target>Omlaag</target>
+</trans-unit>
+<trans-unit id="126">
+<source>Delete Slot</source>
+<target>Slot Verwijderen</target>
+</trans-unit>
+<trans-unit id="127">
+<source>Are you sure you want to delete this slot?</source>
+<target>Bent u zeker dat u dit slot wenst te verwijderen?</target>
+</trans-unit>
+<trans-unit id="128">
+<source>Click here to continue.</source>
+<target>Klik hier om verder te gaan.</target>
+</trans-unit>
+<trans-unit id="129">
+<source>Apostrophe Now</source>
+<target>Apostrophe Now</target>
+</trans-unit>
+<trans-unit id="130">
+<source>Drag and drop pages to reorganize the site.</source>
+<target>Drag and drop pagina's om de website te ordenen.</target>
+</trans-unit>
+<trans-unit id="131">
+<source>edit</source>
+<target>bewerken</target>
+</trans-unit>
+<trans-unit id="132">
+<source>Rename</source>
+<target>Hernoemen</target>
+</trans-unit>
+<trans-unit id="133">
+<source>Page Settings</source>
+<target>Paginainstellingen</target>
+</trans-unit>
+<trans-unit id="134">
+<source>Page Slug</source>
+<target>Paginaslug</target>
+</trans-unit>
+<trans-unit id="135">
+<source>Page Status</source>
+<target>Paginastatus</target>
+</trans-unit>
+<trans-unit id="136">
+<source>Cascade status changes to children</source>
+<target>Statuswijzigingen doorvoeren op subpagina's.</target>
+</trans-unit>
+<trans-unit id="137">
+<source>Page Privacy</source>
+<target>Paginaweergave</target>
+</trans-unit>
+<trans-unit id="138">
+<source>Cascade privacy changes to children</source>
+<target>Weergavewijzigingen doorvoeren op subpagina's.</target>
+</trans-unit>
+<trans-unit id="139">
+<source>Page Permissions</source>
+<target>Paginapermissies</target>
+</trans-unit>
+<trans-unit id="140">
+<source>Page Template</source>
+<target>Paginatemplate</target>
+</trans-unit>
+<trans-unit id="141">
+<source>Page Engine</source>
+<target>Pagina-engine</target>
+</trans-unit>
+<trans-unit id="142">
+<source>This page has children that will also be deleted. </source>
+<target>Deze pagina heeft subpagina's die ook verwijderd zullen worden.</target>
+</trans-unit>
+<trans-unit id="143">
+<source>Delete This Page</source>
+<target>Deze Pagina Verwijderen</target>
+</trans-unit>
+<trans-unit id="144">
+<source>Are you sure? This operation can not be undone. Consider unpublishing the page instead.</source>
+<target>Bent u zeker?  Deze actie kan niet ongedaan gemaakt worden.  Opteer eerder om publicatie van de pagina uit te schakelen.</target>
+</trans-unit>
+<trans-unit id="145">
+<source>Add Page</source>
+<target>Pagina Toevoegen</target>
+</trans-unit>
+<trans-unit id="146">
+<source>Page Title</source>
+<target>Paginatitel</target>
+</trans-unit>
+<trans-unit id="147">
+<source>Local</source>
+<target>Lokaal</target>
+</trans-unit>
+<trans-unit id="148">
+<source>Inherited</source>
+<target>Overgenomen</target>
+</trans-unit>
+<trans-unit id="149">
+<source>Admin</source>
+<target>Beheerder</target>
+</trans-unit>
+<trans-unit id="150">
+<source>You are using IE6! That is just awful! Apostrophe does not support editing using Internet Explorer 6. Why don't you try upgrading? &lt;a href=&quot;http://www.getfirefox.com&quot;&gt;Firefox&lt;/a&gt; &lt;a href=&quot;http://www.google.com/chrome&quot;&gt;Chrome&lt;/a&gt; 	&lt;a href=&quot;http://www.apple.com/safari/download/&quot;&gt;Safari&lt;/a&gt; &lt;a href=&quot;http://www.microsoft.com/windows/internet-explorer/worldwide-sites.aspx&quot;&gt;IE8&lt;/a&gt;&lt;/h2&gt;&lt;/div&gt;</source>
+<target>U gebruikt IE6!  Wat een schandaal!  Apostrope biedt geen ondersteuning voor IE6 bij het bewerken.  Download een recente browser: &lt;a href=&quot;http://www.getfirefox.com&quot;&gt;Firefox&lt;/a&gt; &lt;a href=&quot;http://www.google.com/chrome&quot;&gt;Chrome&lt;/a&gt; &lt;a href=&quot;http://www.apple.com/safari/download/&quot;&gt;Safari&lt;/a&gt; &lt;a href=&quot;http://www.microsoft.com/windows/internet-explorer/worldwide-sites.aspx&quot;&gt;IE8&lt;/a&gt;&lt;/h2&gt;&lt;/div&gt;</target>
+</trans-unit>
+<trans-unit id="151">
+<source>ID#</source>
+<target>ID#</target>
+</trans-unit>
+<trans-unit id="152">
+<source>No history found.</source>
+<target>Geen geschiedenis gevonden.</target>
+</trans-unit>
+<trans-unit id="153">
+<source>Search: &quot;%phrase%&quot;</source>
+<target>Zoeken: &quot;%phrase%&quot;</target>
+</trans-unit>
+<trans-unit id="154">
+<source>You are logged in as</source>
+<target>U bent aangemeld als</target>
+</trans-unit>
+<trans-unit id="155">
+<source>Log Out</source>
+<target>Afmelden</target>
+</trans-unit>
+<trans-unit id="156">
+<source>Login</source>
+<target>Aanmelden</target>
+</trans-unit>
+<trans-unit id="157">
+<source>Click Edit to select a feed URL.</source>
+<target>Klik Bewerken om een feed URL te selecteren.</target>
+</trans-unit>
+<trans-unit id="158">
+<source>Invalid feed.</source>
+<target>Ongeldige feed.</target>
+</trans-unit>
+<trans-unit id="159">
+<source>Choose PDF</source>
+<target>PDF Kiezen</target>
+</trans-unit>
+<trans-unit id="160">
+<source>Select a PDF File</source>
+<target>Selecteer een PDF-bestand</target>
+</trans-unit>
+<trans-unit id="161">
+<source>Download PDF</source>
+<target>PDF Downloaden</target>
+</trans-unit>
+<trans-unit id="207">
+<source>Full Name</source>
+<target>Volledige Naam</target>
+</trans-unit>
+<trans-unit id="209">
+<source>Permissions</source>
+<target>Permissies</target>
+</trans-unit>
+<trans-unit id="211">
+<source>Media Categories</source>
+<target>Media Categorieën</target>
+</trans-unit>
+<trans-unit id="213">
+<source>RSS Feed URL</source>
+<target>RSS Feed URL</target>
+</trans-unit>
+<trans-unit id="225">
+<source>Required.</source>
+<target>Verplicht.</target>
+</trans-unit>
+<trans-unit id="226">
+<source>Invalid.</source>
+<target>Ongeldig.</target>
+</trans-unit>
+<trans-unit id="227">
+<source>At least %min% values must be selected (%count% values selected).</source>
+<target>Selecteer minimaal %min% waarden (%count% geselecteerd).</target>
+</trans-unit>
+<trans-unit id="228">
+<source>At most %max% values must be selected (%count% values selected).</source>
+<target>Selecteer maximaal %max% waarden (%count% geselecteerd).</target>
+</trans-unit>
+<trans-unit id="229">
+<source>&quot;%value%&quot; is too long (%max_length% characters max).</source>
+<target>&quot;%value%&quot; is te lang (maximaal %max_length% tekens).</target>
+</trans-unit>
+<trans-unit id="230">
+<source>&quot;%value%&quot; is too short (%min_length% characters min).</source>
+<target>&quot;%value%&quot; is te kort (minimaal %min_length tekens).</target>
+</trans-unit>
+<trans-unit id="231">
+<source>&quot;%value%&quot; is not an integer.</source>
+<target>&quot;%value%&quot; is geen geheel getal.</target>
+</trans-unit>
+<trans-unit id="232">
+<source>&quot;%value%&quot; must be at most %max%.</source>
+<target>&quot;%value%&quot; niet meer dan %max%.</target>
+</trans-unit>
+<trans-unit id="233">
+<source>&quot;%value%&quot; must be at least %min%.</source>
+<target>&quot;%value%&quot; niet lager dan &quot;%min%&quot;.</target>
+</trans-unit>
+<trans-unit id="234">
+<source>&quot;%value%&quot; does not match the date format (%date_format%).</source>
+<target>&quot;%value%&quot; is niet in het juiste datumformaat (%date_format%).</target>
+</trans-unit>
+<trans-unit id="235">
+<source>The date must be before %max%.</source>
+<target>De datum moet vallen voor %max%.</target>
+</trans-unit>
+<trans-unit id="236">
+<source>The date must be after %min%.</source>
+<target>De datum moet vallen na %max%.</target>
+</trans-unit>
+<trans-unit id="237">
+<source>File is too large (maximum is %max_size% bytes).</source>
+<target>Bestand is te groot (maximum %max_size% bytes).</target>
+</trans-unit>
+<trans-unit id="238">
+<source>Only JPEG, PNG and GIF-format images are accepted.</source>
+<target>Enkel beelden in JPG, PNG of GIF-formaat zijn toegestaan.</target>
+</trans-unit>
+<trans-unit id="239">
+<source>The uploaded file was only partially uploaded.</source>
+<target>Het bestand werd slechts gedeeltelijk verzonden.</target>
+</trans-unit>
+<trans-unit id="240">
+<source>Missing a temporary folder.</source>
+<target>Tijdelijke folder ontbreekt.</target>
+</trans-unit>
+<trans-unit id="241">
+<source>Failed to write file to disk.</source>
+<target>Fout bij schrijven naar schijf.</target>
+</trans-unit>
+<trans-unit id="242">
+<source>File upload stopped by extension.</source>
+<target>Verzending onderbroken door extentie.</target>
+</trans-unit>
+<trans-unit id="243">
+<source>You must provide a title.</source>
+<target>U moet een titel opgeven.</target>
+</trans-unit>
+<trans-unit id="244">
+<source>Title must be &lt;200 characters.</source>
+<target>Titel moet minder dan 200 tekens bevatten.</target>
+</trans-unit>
+<trans-unit id="245">
+<source>Title must be at least 3 characters.</source>
+<target>Titel moet minstens 3 tekens bevatten.</target>
+</trans-unit>
+<trans-unit id="246">
+<source>Select a JPEG, PNG or GIF file</source>
+<target>Selecteer een JPEG, PNG of GIF bestand</target>
+</trans-unit>
+<trans-unit id="247">
+<source>JPEG, PNG and GIF only.</source>
+<target>Enkel JPG, PNG en GIF</target>
+</trans-unit>
+<trans-unit id="248">
+<source>Not a valid embed code</source>
+<target>Ongeldige embed code</target>
+</trans-unit>
+<trans-unit id="249">
+<source>Invalid mime type (%mime_type%).</source>
+<target>Ongeldig mime type (%mime_type%).</target>
+</trans-unit>
+<trans-unit id="250">
+<source>Not a valid YouTube URL</source>
+<target>Ongeldige YouTube URL</target>
+</trans-unit>
+<trans-unit id="251">
+<source>Unexpected extra form field named &quot;%field%&quot;.</source>
+<target>Onverwacht extra formulierveld met naam &quot;%field%&quot;.</target>
+</trans-unit>
+<trans-unit id="252">
+<source>The form submission cannot be processed. It probably means that you have uploaded a file that is too big.</source>
+<target>Het formulier kan niet verwerkt worden.  Waarschijnlijk is bestand dat u wilt verzenden te groot.</target>
+</trans-unit>
+<trans-unit id="253">
+<source>Your field contains unsupported HTML tags.</source>
+<target>Uw veld bevat ongeldige HTML tags.</target>
+</trans-unit>
+<trans-unit id="254">
+<source>Id</source>
+<target>Id</target>
+</trans-unit>
+<trans-unit id="255">
+<source>Type</source>
+<target>Type</target>
+</trans-unit>
+<trans-unit id="256">
+<source>Value</source>
+<target>Waarde</target>
+</trans-unit>
+<trans-unit id="257">
+<source>Page</source>
+<target>Pagina</target>
+</trans-unit>
+<trans-unit id="258">
+<source>Name</source>
+<target>Naam</target>
+</trans-unit>
+<trans-unit id="259">
+<source>Culture</source>
+<target>Taal</target>
+</trans-unit>
+<trans-unit id="260">
+<source>Latest version</source>
+<target>Laatste versie</target>
+</trans-unit>
+<trans-unit id="261">
+<source>Slug</source>
+<target>Slug</target>
+</trans-unit>
+<trans-unit id="262">
+<source>Template</source>
+<target>Sjabloon</target>
+</trans-unit>
+<trans-unit id="263">
+<source>View is secure</source>
+<target>View is secure</target>
+</trans-unit>
+<trans-unit id="264">
+<source>Archived</source>
+<target>Gearchiveerd</target>
+</trans-unit>
+<trans-unit id="265">
+<source>Author</source>
+<target>Auteur</target>
+</trans-unit>
+<trans-unit id="266">
+<source>Deleter</source>
+<target>Verwijderaar</target>
+</trans-unit>
+<trans-unit id="267">
+<source>Engine</source>
+<target>Engine</target>
+</trans-unit>
+<trans-unit id="268">
+<source>Created at</source>
+<target>Gemaakt op</target>
+</trans-unit>
+<trans-unit id="269">
+<source>Updated at</source>
+<target>Gewijzigd op</target>
+</trans-unit>
+<trans-unit id="270">
+<source>Lft</source>
+<target>Lnks</target>
+</trans-unit>
+<trans-unit id="271">
+<source>Rgt</source>
+<target>Rchts</target>
+</trans-unit>
+<trans-unit id="272">
+<source>Level</source>
+<target>Niveau</target>
+</trans-unit>
+<trans-unit id="273">
+<source>Media categories list</source>
+<target>Lijst met mediacategorieën</target>
+</trans-unit>
+<trans-unit id="274">
+<source>Slot</source>
+<target>Slot</target>
+</trans-unit>
+<trans-unit id="275">
+<source>Area version</source>
+<target>Gebiedversie</target>
+</trans-unit>
+<trans-unit id="276">
+<source>Permid</source>
+<target>Permid</target>
+</trans-unit>
+<trans-unit id="277">
+<source>Rank</source>
+<target>Volgorde</target>
+</trans-unit>
+<trans-unit id="278">
+<source>Area</source>
+<target>Gebied</target>
+</trans-unit>
+<trans-unit id="279">
+<source>Version</source>
+<target>Versie</target>
+</trans-unit>
+<trans-unit id="280">
+<source>Diff</source>
+<target>Diff</target>
+</trans-unit>
+<trans-unit id="281">
+<source>Service url</source>
+<target>Service url</target>
+</trans-unit>
+<trans-unit id="282">
+<source>Format</source>
+<target>Formaat</target>
+</trans-unit>
+<trans-unit id="283">
+<source>Width</source>
+<target>Breedte</target>
+</trans-unit>
+<trans-unit id="284">
+<source>Height</source>
+<target>Hoogte</target>
+</trans-unit>
+<trans-unit id="285">
+<source>Embed</source>
+<target>Embed</target>
+</trans-unit>
+<trans-unit id="286">
+<source>Title</source>
+<target>Titel</target>
+</trans-unit>
+<trans-unit id="287">
+<source>Description</source>
+<target>Omschrijving</target>
+</trans-unit>
+<trans-unit id="288">
+<source>Credit</source>
+<target>Credit</target>
+</trans-unit>
+<trans-unit id="289">
+<source>Tags</source>
+<target>Tags</target>
+</trans-unit>
+<trans-unit id="290">
+<source>Privilege</source>
+<target>Privilege</target>
+</trans-unit>
+<trans-unit id="291">
+<source>User</source>
+<target>Gebruiker</target>
+</trans-unit>
+<trans-unit id="292">
+<source>Editors</source>
+<target>Editors</target>
+</trans-unit>
+<trans-unit id="293">
+<source>Managers</source>
+<target>Managers</target>
+</trans-unit>
+<trans-unit id="294">
+<source>File</source>
+<target>Bestand</target>
+</trans-unit>
+<trans-unit id="295">
+<source>Email</source>
+<target>E-mail</target>
+</trans-unit>
+<trans-unit id="296">
+<source>Credits</source>
+<target>Credits</target>
+</trans-unit>
+<trans-unit id="297">
+<source>Thumbnail</source>
+<target>Thumbnail</target>
+</trans-unit>
+<trans-unit id="298">
+<source>Url</source>
+<target>Url</target>
+</trans-unit>
+<trans-unit id="299">
+<source>Username</source>
+<target>Gebruikersnaam</target>
+</trans-unit>
+<trans-unit id="300">
+<source>Password</source>
+<target>Wachtwoord</target>
+</trans-unit>
+<trans-unit id="301">
+<source>Password again</source>
+<target>Wachtwoord herhalen</target>
+</trans-unit>
+<trans-unit id="302">
+<source>Is active</source>
+<target>Actief</target>
+</trans-unit>
+<trans-unit id="303">
+<source>Htpasswd</source>
+<target>Htpasswd</target>
+</trans-unit>
+<trans-unit id="304">
+<source>Groups list</source>
+<target>Groepenlijst</target>
+</trans-unit>
+<trans-unit id="305">
+<source>Parent</source>
+<target>Parent</target>
+</trans-unit>
+<trans-unit id="306">
+<source>Tag</source>
+<target>Tag</target>
+</trans-unit>
+<trans-unit id="307">
+<source>Item-0</source>
+<target>Item-0</target>
+</trans-unit>
+<trans-unit id="308">
+<source>Item-1</source>
+<target>Item-1</target>
+</trans-unit>
+<trans-unit id="309">
+<source>Item-2</source>
+<target>Item-2</target>
+</trans-unit>
+<trans-unit id="310">
+<source>Item-3</source>
+<target>Item-3</target>
+</trans-unit>
+<trans-unit id="311">
+<source>Item-4</source>
+<target>Item-4</target>
+</trans-unit>
+<trans-unit id="312">
+<source>Item-5</source>
+<target>Item-5</target>
+</trans-unit>
+<trans-unit id="313">
+<source>Tags should be separated by commas. Example: teachers, kittens, buildings</source>
+<target>Tags moeten gescheiden worden door komma's. Voorbeeld: leerkrachten, poezen, gebouwen</target>
+</trans-unit>
+<trans-unit id="314">
+<source>This Page</source>
+<target>Deze Pagina</target>
+</trans-unit>
+<trans-unit id="315">
+<source>Choose a User to Add</source>
+<target>Kies een Gebruiker om Toe te Voegen</target>
+</trans-unit>
+<trans-unit id="316">
+<source>Home Page</source>
+<target>Homepagina</target>
+</trans-unit>
+<trans-unit id="317">
+<source>Default Page</source>
+<target>Standaardpagina</target>
+</trans-unit>
+<trans-unit id="318">
+<source>Template-Based</source>
+<target>Sjabloon-gebaseerd</target>
+</trans-unit>
+<trans-unit id="319">
+<source>Media</source>
+<target>Media</target>
+</trans-unit>
+<trans-unit id="320">
+<source>Public</source>
+<target>Publiek</target>
+</trans-unit>
+<trans-unit id="321">
+<source>Hidden</source>
+<target>Verborgen</target>
+</trans-unit>
+<trans-unit id="322">
+<source>All</source>
+<target>Alle</target>
+</trans-unit>
+<trans-unit id="323">
+<source>Image</source>
+<target>Beeld</target>
+</trans-unit>
+<trans-unit id="324">
+<source>Video</source>
+<target>Video</target>
+</trans-unit>
+<trans-unit id="325">
+<source>PDF</source>
+<target>PDF</target>
+</trans-unit>
+<trans-unit id="326">
+<source>Reorganize</source>
+<target>Sorteren</target>
+</trans-unit>
+<trans-unit id="327">
+<source>Users</source>
+<target>Gebruikers</target>
+</trans-unit>
+<trans-unit id="345">
+<source>Editing User &quot;%%username%%&quot;</source>
+<target>Bewerk Gebruiker: &quot;%%username%%&quot;</target>
+</trans-unit>
+<trans-unit id="346">
+<source>No result</source>
+<target>Geen resultaten</target>
+</trans-unit>
+<trans-unit id="347">
+<source>Actions</source>
+<target>Acties</target>
+</trans-unit>
+<trans-unit id="348">
+<source>User list</source>
+<target>Gebruikerslijst</target>
+</trans-unit>
+<trans-unit id="349">
+<source>%%username%% - %%created_at%% - %%updated_at%% - %%last_login%%</source>
+<target>%%username%% - %%created_at%% - %%updated_at%% - %%last_login%%</target>
+</trans-unit>
+<trans-unit id="350">
+<source>reset</source>
+<target>reset</target>
+</trans-unit>
+<trans-unit id="351">
+<source>Choose an action</source>
+<target>Kies een actie</target>
+</trans-unit>
+<trans-unit id="352">
+<source>Checked</source>
+<target>Aangevinkt</target>
+</trans-unit>
+<trans-unit id="353">
+<source>New User</source>
+<target>Nieuwe Gebruiker</target>
+</trans-unit>
+<trans-unit id="354">
+<source>Last login</source>
+<target>Laatste aanmelding</target>
+</trans-unit>
+<trans-unit id="355">
+<source>Editing Permission &quot;%%name%%&quot;</source>
+<target>Bewerk Permissie &quot;%%name%%&quot;</target>
+</trans-unit>
+<trans-unit id="356">
+<source>Permission list</source>
+<target>Permissielijst</target>
+</trans-unit>
+<trans-unit id="357">
+<source>%%name%% - %%description%% - %%created_at%% - %%updated_at%%</source>
+<target>%%name%% - %%description%% - %%created_at%% - %%updated_at%%</target>
+</trans-unit>
+<trans-unit id="358">
+<source>New Permission</source>
+<target>Nieuwe Permissie</target>
+</trans-unit>
+<trans-unit id="359">
+<source>Editing Group &quot;%%name%%&quot;</source>
+<target>Bewerk Groep &quot;%%name%%&quot;</target>
+</trans-unit>
+<trans-unit id="360">
+<source>Group list</source>
+<target>Groeplijst</target>
+</trans-unit>
+<trans-unit id="361">
+<source>New Group</source>
+<target>Nieuwe Groep</target>
+</trans-unit>
+<trans-unit id="362">
+<source>Find in Media</source>
+<target>Zoeken in Media</target>
+</trans-unit>
+<trans-unit id="364">
+<source>Plain Text</source>
+<target>Gewone Tekst</target>
+</trans-unit>
+<trans-unit id="365">
+<source>Rich Text</source>
+<target>Rich Text</target>
+</trans-unit>
+<trans-unit id="366">
+<source>RSS Feed</source>
+<target>RSS Feed</target>
+</trans-unit>
+<trans-unit id="367">
+<source>Slideshow</source>
+<target>Diavoorstelling</target>
+</trans-unit>
+<trans-unit id="368">
+<source>Button</source>
+<target>Knop</target>
+</trans-unit>
+<trans-unit id="369">
+<source>Raw HTML</source>
+<target>HTML-code</target>
+</trans-unit>
+<trans-unit id="370">
+<source>Groups</source>
+<target>Groepen</target>
+</trans-unit>
+<trans-unit id="371">
+<source>Remember</source>
+<target>Onthouden</target>
+</trans-unit>
+<trans-unit id="372">
+<source>Language</source>
+<target>Taal</target>
+</trans-unit>
+<trans-unit id="373">
+<source>Published</source>
+<target>Gepubliceerd</target>
+</trans-unit>
+<trans-unit id="374">
+<source>Unpublished</source>
+<target>Niet gepubliceerd</target>
+</trans-unit>
+<trans-unit id="375">
+<source>results</source>
+<target>Resultaten</target>
+</trans-unit>
+<trans-unit id="376">
+<source>Login Required</source>
+<target>Login vereist</target>
+</trans-unit>
+<trans-unit id="377">
+<source>The username and/or password is invalid.</source>
+<target>Gebruikersnaam en/of wachtwoord zijn niet correct.</target>
+</trans-unit>
+<trans-unit id="378">
+<source>Create Page</source>
+<target>Pagina Aanmaken</target>
+</trans-unit>
+<trans-unit id="379">
+<source>&lt;p&gt;If you want to grant a user the ability to edit a portion of the site, first add them to the &lt;b&gt;editor&lt;/b&gt; group.&lt;/p&gt;&lt;p&gt;Then browse to that area of the site and click the gear to add them to the list of users who can edit in that particular area.&lt;/p&gt;&lt;p&gt;If you want a user to have full control over the entire site, add them to the &lt;b&gt;admin&lt;/b&gt; group.&lt;/p&gt;</source>
+<target>&lt;p&gt;Als je een gebruiker de mogelijkheid wilt geven een deel van de site te bewerken, voeg deze dan eerst toe aan de &lt;b&gt;editor&lt;/b&gt; groep.&lt;/p&gt;&lt;p&gt;Blader daarna naar het gewenste deel van de site en klik op het tandwieltje om de gebruiker toe te voegen tot de lijst van gebruikers die dat specifieke deel van de site mogen bewerken.&lt;/p&gt;&lt;p&gt;Als je een gebruiker volledige controle over de site wenst te geven, voeg deze dan toe aan de &lt;b&gt;admin&lt;/b&gt; groep.&lt;/p&gt;</target>
+</trans-unit>
+<trans-unit id="380">
+<source>New</source>
+<target>Nieuw</target>
+</trans-unit>
+<trans-unit id="381">
+<source>Back to list</source>
+<target>Terug naar lijst</target>
+</trans-unit>
+<trans-unit id="382">
+<source>Save and add</source>
+<target>Opslaan en toevoegen</target>
+</trans-unit>
+<trans-unit id="383">
+<source>Filters</source>
+<target>Filters</target>
+</trans-unit>
+<trans-unit id="384">
+<source>Password (again)</source>
+<target>Herhaal wachtwoord</target>
+</trans-unit>
+<trans-unit id="385">
+<source>There are no categories that contain media.</source>
+<target>Er zijn geen categorieën met media.</target>
+</trans-unit>
+<trans-unit id="386">
+<source>[0] no result|[1] 1 result|(1,+Inf] %1% results</source>
+<target>[0] geen resultaten|[1] 1 resultaat|(1,+Inf] %1% resultaten</target>
+</trans-unit>
+<trans-unit id="387">
+<source>The item was created successfully.</source>
+<target>Het item werd correct aangemaakt</target>
+</trans-unit>
+<trans-unit id="388">
+<source>The item was updated successfully.</source>
+<target>Het item werd correct gewijzigd</target>
+</trans-unit>
+<trans-unit id="389">
+<source>You can add another one below.</source>
+<target>Je kan er onderaan nog één toevoegen.</target>
+</trans-unit>
+<trans-unit id="390">
+<source>The item has not been saved due to some errors.</source>
+<target>Dit item kon door fouten niet bewaard worden.</target>
+</trans-unit>
+<trans-unit id="391">
+<source>Upload Photos</source>
+<target>Fotos Uploaden</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

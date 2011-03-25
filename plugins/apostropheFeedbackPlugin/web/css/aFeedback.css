@@ -1,0 +1,8 @@
+.a-feedback-form { margin: 10px 0; }
+.a-feedback-form label { width: 120px; margin-right: 20px; }
+.a-feedback-form .a-form-row { margin: 0 0 20px 0;}
+.a-feedback-form .a-form-row.submit { margin: 0 0 20px 140px; }
+.a-feedback-form .a-form-help-text { clear: both; font-size: 11px; color: #555; margin: 5px 0 5px 140px; }
+.a-feedback-footer { clear: both; position: relative; float: left; margin: 10px 0; }
+.a-feedback-form-container { display: none; position: absolute; left: 0; bottom: 0; z-index: 999; background: #fff; padding: 10px; border: 1px solid #ddd; }
+.a-feedback-submitted { float: left; clear: both; }

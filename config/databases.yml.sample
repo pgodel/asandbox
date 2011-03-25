@@ -1,0 +1,29 @@
+# Copy to databases.yml, then edit to suit your database environment
+
+all:
+  doctrine:
+    class:        sfDoctrineDatabase
+    param:
+      dsn:        mysql:dbname=asandbox;host=localhost
+      username: root
+      password: root
+      # You need these for non-latin character sets and full I18N
+      encoding: utf8
+      attributes:
+        DEFAULT_TABLE_TYPE: INNODB
+        DEFAULT_TABLE_CHARSET: utf8
+        DEFAULT_TABLE_COLLATE: utf8_general_ci
+
+test:
+  doctrine:
+    class:        sfDoctrineDatabase
+    param:
+      dsn:        mysql:dbname=asandboxtest;host=localhost
+      username: root
+      password: root
+      # You need these for non-latin character sets and full I18N
+      encoding: utf8
+      attributes:
+        DEFAULT_TABLE_TYPE: INNODB
+        DEFAULT_TABLE_CHARSET: utf8
+        DEFAULT_TABLE_COLLATE: utf8_general_ci

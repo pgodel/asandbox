@@ -1,0 +1,4 @@
+autoload:
+  sfTaskExtraPlugin_lib:
+    path:    "<?php echo dirname(__FILE__) ?>/../lib"
+    exclude: [task]
